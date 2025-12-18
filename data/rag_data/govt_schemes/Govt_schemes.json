@@ -1,0 +1,3039 @@
+[
+  {
+    "id": "final_gov_0001",
+    "intent": "government_schemes",
+    "title": "Scheme",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "government"
+    ],
+    "created_at": "2025-12-17T19:16:29.975679",
+    "scheme_name": "",
+    "eligibility": "Indian farmers",
+    "benefits": "",
+    "how_to_apply": "Contact agriculture office"
+  },
+  {
+    "id": "final_gov_0002",
+    "intent": "government_schemes",
+    "title": "Scheme",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "government"
+    ],
+    "created_at": "2025-12-17T19:16:29.975683",
+    "scheme_name": "",
+    "eligibility": "Indian farmers",
+    "benefits": "",
+    "how_to_apply": "Contact agriculture office"
+  },
+  {
+    "id": "final_gov_0003",
+    "intent": "government_schemes",
+    "title": "Scheme",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "government"
+    ],
+    "created_at": "2025-12-17T19:16:29.975687",
+    "scheme_name": "",
+    "eligibility": "Indian farmers",
+    "benefits": "",
+    "how_to_apply": "Contact agriculture office"
+  },
+  {
+    "id": "final_gov_0004",
+    "intent": "government_schemes",
+    "title": "Scheme",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "government"
+    ],
+    "created_at": "2025-12-17T19:16:29.975691",
+    "scheme_name": "",
+    "eligibility": "Indian farmers",
+    "benefits": "",
+    "how_to_apply": "Contact agriculture office"
+  },
+  {
+    "id": "final_gov_0005",
+    "intent": "government_schemes",
+    "title": "Scheme",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "government"
+    ],
+    "created_at": "2025-12-17T19:16:29.975694",
+    "scheme_name": "",
+    "eligibility": "Indian farmers",
+    "benefits": "",
+    "how_to_apply": "Contact agriculture office"
+  },
+  {
+    "id": "govt_what_is_the_monthly_amount_tha_9c2fb251",
+    "domain": "govt_schemes",
+    "scheme_name": "Rs.100",
+    "question": "What is the monthly amount that farmers are required to invest under Pradhan Mantri Kisan Pension Yojana to avail the pension benefit?",
+    "answer": "Rs.100",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: What is the monthly amount that farmers are required to invest under Pradhan Mantri Kisan Pension Yojana to avail the pension benefit? Answer: Rs.100. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_national_commission_on_farmers_606b24fa",
+    "domain": "govt_schemes",
+    "scheme_name": "2004",
+    "question": "National Commission on Farmers started in the year…..?",
+    "answer": "2004",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: National Commission on Farmers started in the year…..? Answer: 2004. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_national_rural_health_miss_c487ff17",
+    "domain": "govt_schemes",
+    "scheme_name": "2005",
+    "question": "The National Rural Health Mission (NRHM) was launched by the Hon’ble Prime?",
+    "answer": "2005",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: The National Rural Health Mission (NRHM) was launched by the Hon’ble Prime? Answer: 2005. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_the_name_of_the_propos_948fa790",
+    "domain": "govt_schemes",
+    "scheme_name": "Suraksha Stores",
+    "question": "What is the name of the proposed retail shops to be certified by the Government, to encourage distancing and sanitation practices?",
+    "answer": "Suraksha Stores",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: What is the name of the proposed retail shops to be certified by the Government, to encourage distancing and sanitation practices? Answer: Suraksha Stores. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_q__57_nrlm_scheme_now_known_as_dd1fdbf4",
+    "domain": "govt_schemes",
+    "scheme_name": "DAY-NRLM",
+    "question": "Q. 57 NRLM scheme Now Known as?",
+    "answer": "DAY-NRLM",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Q. 57 NRLM scheme Now Known as? Answer: DAY-NRLM. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_given_below_are_two_statements_9ede62f5",
+    "domain": "govt_schemes",
+    "scheme_name": "Both Statement A and Statement B are correct",
+    "question": "Given below are two statements Statement A: MSP is declared by the government every year to provide incentives to the farmers for raising the production of crops. Statement B: Buffer stock is created to distribute food grains in the deficit areas and among the poorer strata of the society at the lower price than the market price. In light of the above statements, choose the most appropriate answer from the options given below",
+    "answer": "Both Statement A and Statement B are correct",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Given below are two statements Statement A: MSP is declared by the government every year to provide incentives to the farmers for raising the production of crops. Statement B: Buffer stock is created to distribute food grains in the deficit areas and among the poorer strata of the society at the lower price than the market price. In light of the above statements, choose the most appropriate answer from the options given below Answer: Both Statement A and Statement B are correct. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_a_delimitation_commission_is_a_6c4cffe9",
+    "domain": "govt_schemes",
+    "scheme_name": "Boundary Commission",
+    "question": "A Delimitation Commission is a body responsible for defining the boundaries of electoral constituencies. Its primary purpose is to ensure fair and equitable representation in democratic systems, making adjustments based on population changes. What is the other name of the Delimitation Commission?",
+    "answer": "Boundary Commission",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: A Delimitation Commission is a body responsible for defining the boundaries of electoral constituencies. Its primary purpose is to ensure fair and equitable representation in democratic systems, making adjustments based on population changes. What is the other name of the Delimitation Commission? Answer: Boundary Commission. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_in_which_of_the_following_case_0683df1d",
+    "domain": "govt_schemes",
+    "scheme_name": "Only 1",
+    "question": "In which of the following cases is Aadhar not required for carrying out the authentication process? For authentication by private companies For authentication by banks For authentication by government for the purpose of direct subsidy transfer",
+    "answer": "Only 1",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: In which of the following cases is Aadhar not required for carrying out the authentication process? For authentication by private companies For authentication by banks For authentication by government for the purpose of direct subsidy transfer Answer: Only 1. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_is_are__afff74a0",
+    "domain": "govt_schemes",
+    "scheme_name": "None of the above",
+    "question": "Which of the following is/are the components of Pradhan Mantri Krishi Sinchai Yojana?",
+    "answer": "None of the above",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which of the following is/are the components of Pradhan Mantri Krishi Sinchai Yojana? Answer: None of the above. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_vibrant_villages_programme__vv_7d9790fe",
+    "domain": "govt_schemes",
+    "scheme_name": "Promotion of Tourism and cultural heritage",
+    "question": "Vibrant Villages Programme (VVP) envisages comprehensive development of identified villages in 46 blocks in 19 districts abutting northern border. Which of the following are amongst the focused interventions under this scheme?",
+    "answer": "Promotion of Tourism and cultural heritage",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Vibrant Villages Programme (VVP) envisages comprehensive development of identified villages in 46 blocks in 19 districts abutting northern border. Which of the following are amongst the focused interventions under this scheme? Answer: Promotion of Tourism and cultural heritage. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_pradhan_mantri_awaas_yojana_gr_cfa545b5",
+    "domain": "govt_schemes",
+    "scheme_name": "Rs. 1.35 lakhs",
+    "question": "Pradhan Mantri Awaas Yojana Gramin (PMAY-G) is centre's flagship scheme aimed at providing a pucca house, with basic amenities, to all houseless households and those households living in kutcha and dilapidated house. How much financial assistance is provided to beneficiaries per unit in plain areas under this scheme?",
+    "answer": "Rs. 1.35 lakhs",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Pradhan Mantri Awaas Yojana Gramin (PMAY-G) is centre's flagship scheme aimed at providing a pucca house, with basic amenities, to all houseless households and those households living in kutcha and dilapidated house. How much financial assistance is provided to beneficiaries per unit in plain areas under this scheme? Answer: Rs. 1.35 lakhs. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_is_not__e3f479b3",
+    "domain": "govt_schemes",
+    "scheme_name": "Deendayal Upadhyaya Grameen Kaushalya Yojana",
+    "question": "Which of the following is not Sub-mission under Deendayal Antyodaya Yojana - National Rural Livelihoods Mission?",
+    "answer": "Deendayal Upadhyaya Grameen Kaushalya Yojana",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which of the following is not Sub-mission under Deendayal Antyodaya Yojana - National Rural Livelihoods Mission? Answer: Deendayal Upadhyaya Grameen Kaushalya Yojana. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_scheme_is_related_to_ens_5b32e256",
+    "domain": "govt_schemes",
+    "scheme_name": "Swachh Bharat Mission",
+    "question": "Which Scheme is related to ensure open defecation free India?",
+    "answer": "Swachh Bharat Mission",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which Scheme is related to ensure open defecation free India? Answer: Swachh Bharat Mission. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_stateme_44539338",
+    "domain": "govt_schemes",
+    "scheme_name": "None of the above",
+    "question": "Which of the following statement is incorrect about Swacchta Udyami Yojana?",
+    "answer": "None of the above",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which of the following statement is incorrect about Swacchta Udyami Yojana? Answer: None of the above. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_mobile_app_has_been_laun_d74b1420",
+    "domain": "govt_schemes",
+    "scheme_name": "eSARAS",
+    "question": "Which mobile app has been launched by Deendayal Antyodaya Yojana - National Rural Livelihoods Mission for use as an effective platform for marketing of the products made by women self-help groups?",
+    "answer": "eSARAS",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which mobile app has been launched by Deendayal Antyodaya Yojana - National Rural Livelihoods Mission for use as an effective platform for marketing of the products made by women self-help groups? Answer: eSARAS. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_prime_minister_narendra_modi_d_262fb4a0",
+    "domain": "govt_schemes",
+    "scheme_name": "2 crore",
+    "question": "Prime Minister Narendra Modi during his Independence Day speech 2023 has announced that Government is working with Women's Self-Help Groups (SHGs) with the aim of creating ‘Lakhpati Didis’ in villages. Fill the gap",
+    "answer": "2 crore",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Fill in the blanks",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Prime Minister Narendra Modi during his Independence Day speech 2023 has announced that Government is working with Women's Self-Help Groups (SHGs) with the aim of creating ‘Lakhpati Didis’ in villages. Fill the gap Answer: 2 crore. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_how_cash_assistance_a_mother_i_41c0566e",
+    "domain": "govt_schemes",
+    "scheme_name": "Rs. 1200",
+    "question": "How cash assistance a mother is entitled under Janani Suraksha Yojana in Low Performing States for institutional delivery?",
+    "answer": "Rs. 1200",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: How cash assistance a mother is entitled under Janani Suraksha Yojana in Low Performing States for institutional delivery? Answer: Rs. 1200. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_annual_procurement_tar_dc1c1c2e",
+    "domain": "govt_schemes",
+    "scheme_name": "15%",
+    "question": "What is annual procurement target from MSEs owned by SC/ST entrepreneurs, as part of Public Procurement Policy for Micro and Small Enterprises (MSEs) under National SC-ST Hub Scheme?",
+    "answer": "15%",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: What is annual procurement target from MSEs owned by SC/ST entrepreneurs, as part of Public Procurement Policy for Micro and Small Enterprises (MSEs) under National SC-ST Hub Scheme? Answer: 15%. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_total_assistance_for_individua_c1970779",
+    "domain": "govt_schemes",
+    "scheme_name": "5 lakhs",
+    "question": "Total assistance for individual project under Agri-clinic and Agribusiness centers scheme (ACABC)?",
+    "answer": "5 lakhs",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Total assistance for individual project under Agri-clinic and Agribusiness centers scheme (ACABC)? Answer: 5 lakhs. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_the_minimum_forest_cov_0dc5d1aa",
+    "domain": "govt_schemes",
+    "scheme_name": "One-third",
+    "question": "What is the minimum forest cover to be maintained as per the National Forest Policy, 1988?",
+    "answer": "One-third",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: What is the minimum forest cover to be maintained as per the National Forest Policy, 1988? Answer: One-third. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_one_of_the_following_is__fe92ae68",
+    "domain": "govt_schemes",
+    "scheme_name": "Integrated and Independent Judiciary",
+    "question": "Which one of the following is not one of the features of parliamentary form of government?",
+    "answer": "Integrated and Independent Judiciary",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which one of the following is not one of the features of parliamentary form of government? Answer: Integrated and Independent Judiciary. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_consider_the_following_stateme_f0d61f6b",
+    "domain": "govt_schemes",
+    "scheme_name": "(A), (B) and (C).",
+    "question": "Consider the following statements (A). UN General Assembly has declared 2023 as the international year of millets (B). Odisha govt. ropes in FICCI to promote millets globally (C). Odisha Millets Mission is a flagship programme of the Odisha government to revive millets in farms and on plates Choose the correct answer from the options given below:",
+    "answer": "(A), (B) and (C).",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Consider the following statements (A). UN General Assembly has declared 2023 as the international year of millets (B). Odisha govt. ropes in FICCI to promote millets globally (C). Odisha Millets Mission is a flagship programme of the Odisha government to revive millets in farms and on plates Choose the correct answer from the options given below: Answer: (A), (B) and (C).. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt___balwant_rai_mehta_committee__a80ef990",
+    "domain": "govt_schemes",
+    "scheme_name": "[OCR: missing]",
+    "question": "• Balwant Rai Mehta Committee was appointed in 1957, to examine and suggest measures for better working of the Community Development Programme and the National Extension Service. The committee suggested the establishment of a democratic decentralised local government which came to be known as the Panchayati Raj. Recommendations by the Committee: - Three-tier Panchayati Raj system: Gram Panchayat, Panchayat Samiti and Zila Parishad. - Directly elected representatives to constitute the gram panchayat and indirectly elected representatives to constitute the Panchayat Samiti and Zila Parishad. - Planning and development are the primary objectives of the Panchayati Raj system. - Panchayat Samiti should be the executive body and Zila Parishad will act as the advisory and supervisory body. - District Collector to be made the chairman of the Zila Parishad. - It also requested for provisioning resources so as to help them discharge their duties and responsibilities.",
+    "answer": "[OCR: missing]",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: • Balwant Rai Mehta Committee was appointed in 1957, to examine and suggest measures for better working of the Community Development Programme and the National Extension Service. The committee suggested the establishment of a democratic decentralised local government which came to be known as the Panchayati Raj. Recommendations by the Committee: - Three-tier Panchayati Raj system: Gram Panchayat, Panchayat Samiti and Zila Parishad. - Directly elected representatives to constitute the gram panchayat and indirectly elected representatives to constitute the Panchayat Samiti and Zila Parishad. - Planning and development are the primary objectives of the Panchayati Raj system. - Panchayat Samiti should be the executive body and Zila Parishad will act as the advisory and supervisory body. - District Collector to be made the chairman of the Zila Parishad. - It also requested for provisioning resources so as to help them discharge their duties and responsibilities. Answer: [OCR: missing]. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_under_the_sub_mission_on_agric_d1a4f7c3",
+    "domain": "govt_schemes",
+    "scheme_name": "[OCR: missing]",
+    "question": "Under the Sub-Mission on Agricultural Mechanization being implemented by Department of Agriculture, the Cooperation & Farmers Welfare, subsidy @ 40% of the project cost limited to a maximum of Rs. 24 lakhs, whichever is less, is extended to the rural entrepreneurs, progressive farmer and self help groups for establishment of farm machinery banks for custom hiring comprising of various agricultural machinery & including combine harvester.",
+    "answer": "[OCR: missing]",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Under the Sub-Mission on Agricultural Mechanization being implemented by Department of Agriculture, the Cooperation & Farmers Welfare, subsidy @ 40% of the project cost limited to a maximum of Rs. 24 lakhs, whichever is less, is extended to the rural entrepreneurs, progressive farmer and self help groups for establishment of farm machinery banks for custom hiring comprising of various agricultural machinery & including combine harvester. Answer: [OCR: missing]. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt___deen_dayal_antyodaya_yojana__8044c4b8",
+    "domain": "govt_schemes",
+    "scheme_name": "[OCR: missing]",
+    "question": "• Deen Dayal Antyodaya Yojana - National Livelihoods Mission (NRLM) was launched by the Ministry of Rural Development (MoRD), Government of India in June 2011 as a restructured version of Swarna Jayanti Gram Swarozgar Yojna (SGSY). • The Mission aims at creating efficient and effective institutional platforms of the rural poor enabling them to increase household income through sustainable livelihood enhancements and improved access to financial services. In November 2015, the program was renamed Deendayal Antayodaya Yojana (DAY-NRLM). • The scheme is integration of the National Urban Livelihoods Mission (NULM) and National Rural Livelihoods Mission (NRLM). • The scheme has two component one for urban India and other for rural India. • The Urban component named as Deen Dayal Antyodaya Yojana will be implemented by the Ministry of Housing and Urban Poverty Alleviation. • The rural component named as Deen Dayal Upadhyaya Grameen Kaushalya Yojana will be implemented by the Ministry of Rural Development.",
+    "answer": "[OCR: missing]",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: • Deen Dayal Antyodaya Yojana - National Livelihoods Mission (NRLM) was launched by the Ministry of Rural Development (MoRD), Government of India in June 2011 as a restructured version of Swarna Jayanti Gram Swarozgar Yojna (SGSY). • The Mission aims at creating efficient and effective institutional platforms of the rural poor enabling them to increase household income through sustainable livelihood enhancements and improved access to financial services. In November 2015, the program was renamed Deendayal Antayodaya Yojana (DAY-NRLM). • The scheme is integration of the National Urban Livelihoods Mission (NULM) and National Rural Livelihoods Mission (NRLM). • The scheme has two component one for urban India and other for rural India. • The Urban component named as Deen Dayal Antyodaya Yojana will be implemented by the Ministry of Housing and Urban Poverty Alleviation. • The rural component named as Deen Dayal Upadhyaya Grameen Kaushalya Yojana will be implemented by the Ministry of Rural Development. Answer: [OCR: missing]. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_union_government_has_annou_09eba718",
+    "domain": "govt_schemes",
+    "scheme_name": "Allahabad and Haldia",
+    "question": "The Union government has announced the setting up of “Jal Marg Vikas” project on river Ganga to link which of the following places?",
+    "answer": "Allahabad and Haldia",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: The Union government has announced the setting up of “Jal Marg Vikas” project on river Ganga to link which of the following places? Answer: Allahabad and Haldia. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_ministry_is_implementing_m_c47c0677",
+    "domain": "govt_schemes",
+    "scheme_name": "2012-13",
+    "question": "The ministry is implementing MIDH (Mission for Integrated Development of Horticulture) with effect from which of the following year?",
+    "answer": "2012-13",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: The ministry is implementing MIDH (Mission for Integrated Development of Horticulture) with effect from which of the following year? Answer: 2012-13. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_given_below_are_two_statements_10effc6e",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "Given below are two statements: Statement (I): The first village to come under Gramdan was Mangroth in Hamirpur district of U.P. Statement (II): The Gramdan movement was the second post independence movement that sought to bring social transformation through government legislation. In light of the above statements, choose the most appropriate answer from the options given below.",
+    "answer": "Statement (I) is correct but Statement (II) is incorrect.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Assertion or Reasoning",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Given below are two statements: Statement (I): The first village to come under Gramdan was Mangroth in Hamirpur district of U.P. Statement (II): The Gramdan movement was the second post independence movement that sought to bring social transformation through government legislation. In light of the above statements, choose the most appropriate answer from the options given below. Answer: Statement (I) is correct but Statement (II) is incorrect.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_arrange_the_initiation_of_the__b4cbeb2e",
+    "domain": "govt_schemes",
+    "scheme_name": "(D), (C), (B), (A)",
+    "question": "Arrange the initiation of the schemes in the chronological order from beginning to end: (A) Jawahar Rojgar Yojana, (B) Rural Landless Employment Guarantee Scheme, (C) Intensive Cattle Development Project, (D) Key Village Scheme. Choose the correct answer from the options given below:",
+    "answer": "(D), (C), (B), (A)",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Arrange the initiation of the schemes in the chronological order from beginning to end: (A) Jawahar Rojgar Yojana, (B) Rural Landless Employment Guarantee Scheme, (C) Intensive Cattle Development Project, (D) Key Village Scheme. Choose the correct answer from the options given below: Answer: (D), (C), (B), (A). This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_scheme_is_providing_guar_4b512bca",
+    "domain": "govt_schemes",
+    "scheme_name": "MGNREGA",
+    "question": "Which scheme is providing guaranteed 100 Days employment unskilled and manual?",
+    "answer": "MGNREGA",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which scheme is providing guaranteed 100 Days employment unskilled and manual? Answer: MGNREGA. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_one_of_the_following_is__b7f329bf",
+    "domain": "govt_schemes",
+    "scheme_name": "3",
+    "question": "Which one of the following is not one of the features of parliamentary form of government? 1. Majority party rule 2. Collective Responsibility 3. Integrated and Independent Judiciary 4. Dissolution of the lower house",
+    "answer": "3",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which one of the following is not one of the features of parliamentary form of government? 1. Majority party rule 2. Collective Responsibility 3. Integrated and Independent Judiciary 4. Dissolution of the lower house Answer: 3. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_objective_of_pm_kusum_sche_a2632091",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "The objective of PM-KUSUM Scheme is",
+    "answer": "to remove farmers' dependence on diesel and kerosene and to link pump sets to solar energy",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: The objective of PM-KUSUM Scheme is Answer: to remove farmers' dependence on diesel and kerosene and to link pump sets to solar energy. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_pradhan_mantri_garib_kalyan_pa_3a968354",
+    "domain": "govt_schemes",
+    "scheme_name": "50 Lakhs",
+    "question": "Pradhan Mantri Garib Kalyan Package, PMGKP Insurance Policy claims of COVID Warriors will continue to be settled till 24 April 2021. The Insurance cover of how many rupees is provided under the PMGKP scheme?",
+    "answer": "50 Lakhs",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Pradhan Mantri Garib Kalyan Package, PMGKP Insurance Policy claims of COVID Warriors will continue to be settled till 24 April 2021. The Insurance cover of how many rupees is provided under the PMGKP scheme? Answer: 50 Lakhs. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_national_education_policy__202_51a28d53",
+    "domain": "govt_schemes",
+    "scheme_name": "Kasturirangan Committee",
+    "question": "National Education Policy, 2020 is based on the recommendation of the following committees?",
+    "answer": "Kasturirangan Committee",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: National Education Policy, 2020 is based on the recommendation of the following committees? Answer: Kasturirangan Committee. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_stateme_a753a4af",
+    "domain": "govt_schemes",
+    "scheme_name": "It was launched in 2016.",
+    "question": "Which of the following statements regarding PM Awas Yojana is not correct?",
+    "answer": "It was launched in 2016.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which of the following statements regarding PM Awas Yojana is not correct? Answer: It was launched in 2016.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_identify_the_scheme_and_choose_93768cbf",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "Identify the scheme and choose the correct options given below.",
+    "answer": "Deen Dayal Antyodaya Yojana - National Rural Livelihoods Mission",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Identify the scheme and choose the correct options given below. Answer: Deen Dayal Antyodaya Yojana - National Rural Livelihoods Mission. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_beti_bachao__beti_padhao___886fef97",
+    "domain": "govt_schemes",
+    "scheme_name": "Child Sex Ratio",
+    "question": "The Beti Bachao, Beti Padhao (BBBP) scheme was launched to control which of the following declining options?",
+    "answer": "Child Sex Ratio",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: The Beti Bachao, Beti Padhao (BBBP) scheme was launched to control which of the following declining options? Answer: Child Sex Ratio. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_national_rural_livelihood_miss_601d1c32",
+    "domain": "govt_schemes",
+    "scheme_name": "Swarnajayanti Grameen Swarozagar Yojana",
+    "question": "National Rural Livelihood Mission(NRLM) earlier known as",
+    "answer": "Swarnajayanti Grameen Swarozagar Yojana",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: National Rural Livelihood Mission(NRLM) earlier known as Answer: Swarnajayanti Grameen Swarozagar Yojana. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_the_aim_of_the__vibran_0b3be2cb",
+    "domain": "govt_schemes",
+    "scheme_name": "To develop Northern states of India",
+    "question": "What is the aim of the \"Vibrant Village Program\" launched by the Indian government in April 2023?",
+    "answer": "To develop Northern states of India",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: What is the aim of the \"Vibrant Village Program\" launched by the Indian government in April 2023? Answer: To develop Northern states of India. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_choose_the_incorrect_statement_98caa505",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "Choose the incorrect statement regarding the composition of election commission. 1. Appointment of the chief election commissioner and other election commissioners shall be made by the president. 2. President can also appoint regional commissioners after consultation with the election commission. 3. Conditions of service and tenure of office of the election commissioners and regional commissioners shall not be determined by the president. 4. Article 324 under constitution of India is dealing with the composition of election commission.",
+    "answer": "Conditions of service and tenure of office of the election commissioners and regional commissioners shall not be determined by the president.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Choose the incorrect statement regarding the composition of election commission. 1. Appointment of the chief election commissioner and other election commissioners shall be made by the president. 2. President can also appoint regional commissioners after consultation with the election commission. 3. Conditions of service and tenure of office of the election commissioners and regional commissioners shall not be determined by the president. 4. Article 324 under constitution of India is dealing with the composition of election commission. Answer: Conditions of service and tenure of office of the election commissioners and regional commissioners shall not be determined by the president.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_100_days_employment_is_provide_6ed8a3a6",
+    "domain": "govt_schemes",
+    "scheme_name": "MGNREGA",
+    "question": "100 Days employment is provided under which scheme?",
+    "answer": "MGNREGA",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: 100 Days employment is provided under which scheme? Answer: MGNREGA. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_ministry_is_implementing_m_cad2bf27",
+    "domain": "govt_schemes",
+    "scheme_name": "3. 2015-16",
+    "question": "The ministry is implementing MIDH (Mission for Integrated Development of Horticulture) with effect from which of the following year? 2012-13 1. 2. 2019-20 3. 2015-16 4. 2014-15",
+    "answer": "3. 2015-16",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: The ministry is implementing MIDH (Mission for Integrated Development of Horticulture) with effect from which of the following year? 2012-13 1. 2. 2019-20 3. 2015-16 4. 2014-15 Answer: 3. 2015-16. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_is_cons_fe8cf60c",
+    "domain": "govt_schemes",
+    "scheme_name": "3. Wood's Despatch",
+    "question": "Which of the following is considered as the \"Magna Carta of England Education in India\"? 1. Hunter education commission ा Lord Macaulay's Minute 3. Wood's Despatch 4. Thomas Babington Macaulay",
+    "answer": "3. Wood's Despatch",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which of the following is considered as the \"Magna Carta of England Education in India\"? 1. Hunter education commission ा Lord Macaulay's Minute 3. Wood's Despatch 4. Thomas Babington Macaulay Answer: 3. Wood's Despatch. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_identify_correct_statements_ab_98c09e03",
+    "domain": "govt_schemes",
+    "scheme_name": "A, C and D only",
+    "question": "Identify correct statements about the Pradhan Mantri Gramin Sadak Yojana (PMGSY), a major rural development project. A. It was launched in the year 2000 B. It aims to provide all weather connectivity to all unconnected rural habitations C. It has completed two phases and the third one is going on D. More than 6.44 lakh km road length has been constructed Choose the correct answer from the options given below:",
+    "answer": "A, C and D only",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Identify correct statements about the Pradhan Mantri Gramin Sadak Yojana (PMGSY), a major rural development project. A. It was launched in the year 2000 B. It aims to provide all weather connectivity to all unconnected rural habitations C. It has completed two phases and the third one is going on D. More than 6.44 lakh km road length has been constructed Choose the correct answer from the options given below: Answer: A, C and D only. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_is_true_about_deen_dayal_76e97a0f",
+    "domain": "govt_schemes",
+    "scheme_name": "A, B and D only",
+    "question": "Which is true about Deen Dayal Antyodaya-National Rural Livelihoods Mission (DAY-NRLM)? A. aims to alleviate rural poverty through building sustainable community institutions of poor, B. does skill building of rural households for sustainable livelihood opportunities, C. does not provide last mile financial services in remote rural areas through BC Sakhi, D. does the capacity building of Community Resource Persons under the mission to provide support to the community institutions. Choose the correct answer from the options given below:",
+    "answer": "A, B and D only",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which is true about Deen Dayal Antyodaya-National Rural Livelihoods Mission (DAY-NRLM)? A. aims to alleviate rural poverty through building sustainable community institutions of poor, B. does skill building of rural households for sustainable livelihood opportunities, C. does not provide last mile financial services in remote rural areas through BC Sakhi, D. does the capacity building of Community Resource Persons under the mission to provide support to the community institutions. Choose the correct answer from the options given below: Answer: A, B and D only. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_arrange_the_acts_and_statutory_a1e3c707",
+    "domain": "govt_schemes",
+    "scheme_name": "C. B. A. E, D",
+    "question": "Arrange the Acts and Statutory Orders formed by the Government of India from early to latest year to protect consumers: A. The standards of weights and measures, Act B. The prevention of food adulteration, Act C. The agricultural produce (Grading & marking), Act D. Bureau of Indian Standards (BIS) E. The seeds, Act Choose the correct answer from the options given below",
+    "answer": "C. B. A. E, D",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Arrange the Acts and Statutory Orders formed by the Government of India from early to latest year to protect consumers: A. The standards of weights and measures, Act B. The prevention of food adulteration, Act C. The agricultural produce (Grading & marking), Act D. Bureau of Indian Standards (BIS) E. The seeds, Act Choose the correct answer from the options given below Answer: C. B. A. E, D. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_arrange_the_following_institut_2815f68b",
+    "domain": "govt_schemes",
+    "scheme_name": "A, E, B, C, D",
+    "question": "Arrange the following institutions based on year of set up in India from early to latest one: A. Tea board of India B. Cotton corporation of India C. Marine products export development authority (MPEDA) D. Agricultural & processed food products export development authority (APEDA) E. Agricultural price commission (APC now CACP) Choose the correct answer from the options given below",
+    "answer": "A, E, B, C, D",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Arrange the following institutions based on year of set up in India from early to latest one: A. Tea board of India B. Cotton corporation of India C. Marine products export development authority (MPEDA) D. Agricultural & processed food products export development authority (APEDA) E. Agricultural price commission (APC now CACP) Choose the correct answer from the options given below Answer: A, E, B, C, D. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_government_raises_funds_by_imp_81106461",
+    "domain": "govt_schemes",
+    "scheme_name": "A, B, C and D only",
+    "question": "Government raises funds by imposing taxes based on rates of proportion to perform following protective economic and social functions: A. Proportional tax B. Progressive tax C. Regressive tax D. Degressive tax E. Service tax Choose the correct answer from the options given below:",
+    "answer": "A, B, C and D only",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Government raises funds by imposing taxes based on rates of proportion to perform following protective economic and social functions: A. Proportional tax B. Progressive tax C. Regressive tax D. Degressive tax E. Service tax Choose the correct answer from the options given below: Answer: A, B, C and D only. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_match_list_i_with_list_ii___ta_a52a3172",
+    "domain": "govt_schemes",
+    "scheme_name": "A - II, B - III, C - IV, D - I",
+    "question": "Match List I with List II <@Table>List I,List II\nA. Lead Bank Scheme,I. M. Narasimham Committee\nB. Differential Rate of Interest,II. Nariman Committee\nC. Regional Rural Banks,III. All India Rural Credit Survey Committee\nD. Agricultural Refinance & Development Corporation,IV RBI Committee</@Table> \nChoose the correct answer from the options given below:",
+    "answer": "A - II, B - III, C - IV, D - I",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Match the column",
+      "question_level": "Hard",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Match List I with List II <@Table>List I,List II\nA. Lead Bank Scheme,I. M. Narasimham Committee\nB. Differential Rate of Interest,II. Nariman Committee\nC. Regional Rural Banks,III. All India Rural Credit Survey Committee\nD. Agricultural Refinance & Development Corporation,IV RBI Committee</@Table> \nChoose the correct answer from the options given below: Answer: A - II, B - III, C - IV, D - I. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt__a_statement_of_policy_to_guid_79d5dbd1",
+    "domain": "govt_schemes",
+    "scheme_name": "Principle",
+    "question": "\"A statement of policy to guide decisions and actions in a consistent manner\" 15: Principle",
+    "answer": "Principle",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: \"A statement of policy to guide decisions and actions in a consistent manner\" 15: Principle Answer: Principle. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt__prime_minister_krishi_sinchay_930f0683",
+    "domain": "govt_schemes",
+    "scheme_name": "1st July, 2015",
+    "question": "\"Prime Minister Krishi Sinchayee Yojana (PMKSY)\" was launched on:",
+    "answer": "1st July, 2015",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: \"Prime Minister Krishi Sinchayee Yojana (PMKSY)\" was launched on: Answer: 1st July, 2015. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_match_list_i_with_list_ii___ta_17b6b968",
+    "domain": "govt_schemes",
+    "scheme_name": "A - III. B - I. C - IV. D - II",
+    "question": "Match List I with List II <@Table>List I,List II\nA. Panchayati Raj Institutions I. A T Mosher,\nB. Indian Village Service,II. R N Tagore\nC. The Fiscal Commission,III. B R Mehta\nD. Sriniketan Experiment,IV. Govt. of India</@Table> \nChoose the correct answer from the options given below:",
+    "answer": "A - III. B - I. C - IV. D - II",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Match the column",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Match List I with List II <@Table>List I,List II\nA. Panchayati Raj Institutions I. A T Mosher,\nB. Indian Village Service,II. R N Tagore\nC. The Fiscal Commission,III. B R Mehta\nD. Sriniketan Experiment,IV. Govt. of India</@Table> \nChoose the correct answer from the options given below: Answer: A - III. B - I. C - IV. D - II. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_vibrant_village_program__aimed_b37f831a",
+    "domain": "govt_schemes",
+    "scheme_name": "(A). (C) and (D) only.",
+    "question": "Vibrant Village Program' aimed at the development of Northern states of India was launched by the Indian government in April 2023 which will cover 2,967 villages in 46 blocks of 19 districts. Which of the following states are represented under this program: (A) Arunachal Pradesh and Sikkim (B) Haryana and Punjab (C) Union Territories of Ladakh and Jammu & Kashmir (D) Himachal Pradesh and Uttarakhand Choose the correct answer from the options given below:",
+    "answer": "(A). (C) and (D) only.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Vibrant Village Program' aimed at the development of Northern states of India was launched by the Indian government in April 2023 which will cover 2,967 villages in 46 blocks of 19 districts. Which of the following states are represented under this program: (A) Arunachal Pradesh and Sikkim (B) Haryana and Punjab (C) Union Territories of Ladakh and Jammu & Kashmir (D) Himachal Pradesh and Uttarakhand Choose the correct answer from the options given below: Answer: (A). (C) and (D) only.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_mahatma_gandhi_national_rural__2c3239c5",
+    "domain": "govt_schemes",
+    "scheme_name": "(A), (B) and (C) only.",
+    "question": "Mahatma Gandhi National Rural Employment Guarantee Scheme (MNREGS) is a flagship rural development programme of Union Government with several features. Choose the correct combination: (A) In phase-I, it was launched in two hundred most backward districts of the country in 2006. (B) It is backed by the National Rural Employment Guarantee Act (NREGA) passed by Government of India in 2005. (C) It is fundamentally different from all other wage employment programmes, as it guarantees employment as a legal right. (D) More than 6.2 crore assets have been geo-tagged till February 2023 and made available in the public domain. Choose the correct answer from the options given below:",
+    "answer": "(A), (B) and (C) only.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Mahatma Gandhi National Rural Employment Guarantee Scheme (MNREGS) is a flagship rural development programme of Union Government with several features. Choose the correct combination: (A) In phase-I, it was launched in two hundred most backward districts of the country in 2006. (B) It is backed by the National Rural Employment Guarantee Act (NREGA) passed by Government of India in 2005. (C) It is fundamentally different from all other wage employment programmes, as it guarantees employment as a legal right. (D) More than 6.2 crore assets have been geo-tagged till February 2023 and made available in the public domain. Choose the correct answer from the options given below: Answer: (A), (B) and (C) only.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_arrange_the_following_crop_ins_7fea915a",
+    "domain": "govt_schemes",
+    "scheme_name": "(A), (B), (C), (D),",
+    "question": "Arrange the following crop insurance schemes of India in their chronological order. (A). Pilot Crop Insurance Scheme (B). Comprehensive Crop Insurance Scheme (C). National Agricultural Insurance Scheme (D). Pradhan Mantri Fasal Bima Yojana Choose the correct answer from the options given below:",
+    "answer": "(A), (B), (C), (D),",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Arrange the following crop insurance schemes of India in their chronological order. (A). Pilot Crop Insurance Scheme (B). Comprehensive Crop Insurance Scheme (C). National Agricultural Insurance Scheme (D). Pradhan Mantri Fasal Bima Yojana Choose the correct answer from the options given below: Answer: (A), (B), (C), (D),. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_among_the_credit_control_instr_f8f0ed71",
+    "domain": "govt_schemes",
+    "scheme_name": "Bank rate or Discount rate",
+    "question": "Among the credit control instrument is the rate at which the central bank makes available financial accommodation to commercial banks by discounting government or other first-class securities?",
+    "answer": "Bank rate or Discount rate",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Among the credit control instrument is the rate at which the central bank makes available financial accommodation to commercial banks by discounting government or other first-class securities? Answer: Bank rate or Discount rate. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_match_list_i_with_list_ii___ta_491aad5d",
+    "domain": "govt_schemes",
+    "scheme_name": "(A) - (IV). (B) - (III), (C) - (I), (D) - (II)",
+    "question": "Match List-I with List-II <@Table>List-I,List-II\n(A). Single Window System,(l). F.K.F. Nariman Committee\n(B). Differential Rate of Interest Scheme,(II). M. Narasimham Committee\n(C). Lead Bank Scheme,(III). B.K. Hazare Committee\n(D). Regional Rural Banks,(IV). Mohan Kanda Committee</@Table> \nChoose the correct answer from the options given below:",
+    "answer": "(A) - (IV). (B) - (III), (C) - (I), (D) - (II)",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Match the column",
+      "question_level": "Hard",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Match List-I with List-II <@Table>List-I,List-II\n(A). Single Window System,(l). F.K.F. Nariman Committee\n(B). Differential Rate of Interest Scheme,(II). M. Narasimham Committee\n(C). Lead Bank Scheme,(III). B.K. Hazare Committee\n(D). Regional Rural Banks,(IV). Mohan Kanda Committee</@Table> \nChoose the correct answer from the options given below: Answer: (A) - (IV). (B) - (III), (C) - (I), (D) - (II). This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_put_the_following_commissions__9db19a0e",
+    "domain": "govt_schemes",
+    "scheme_name": "(B), (A), (D), (C).",
+    "question": "Put the following Commissions/ Policies related to land reforms in chronological order. (A). Central Land Reforms Committee (B). Congress Agrarian Reform Committee (Kumarappa Committee) (C). National Agricultural Policy (D). National Commission on Agriculture Choose the correct answer from the options given below:",
+    "answer": "(B), (A), (D), (C).",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Put the following Commissions/ Policies related to land reforms in chronological order. (A). Central Land Reforms Committee (B). Congress Agrarian Reform Committee (Kumarappa Committee) (C). National Agricultural Policy (D). National Commission on Agriculture Choose the correct answer from the options given below: Answer: (B), (A), (D), (C).. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_whether_the_financial_benefits_b6964a30",
+    "domain": "govt_schemes",
+    "scheme_name": "Yes, Green box",
+    "question": "Whether the financial benefits transferred to farmers under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme, are exempted from reduction commitments under WTO? If yes, name the domestic support exemption box (Amber, Blue, Green, Development).",
+    "answer": "Yes, Green box",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Hard",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Whether the financial benefits transferred to farmers under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme, are exempted from reduction commitments under WTO? If yes, name the domestic support exemption box (Amber, Blue, Green, Development). Answer: Yes, Green box. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_the_subsidy_given_for__39075f57",
+    "domain": "govt_schemes",
+    "scheme_name": "50",
+    "question": "What is the subsidy given for fishpond under blue revolution scheme",
+    "answer": "50",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Fisheries and Aquaculture",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Fisheries and Aquaculture: What is the subsidy given for fishpond under blue revolution scheme Answer: 50. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_education_commission__1964_3151ebf3",
+    "domain": "govt_schemes",
+    "scheme_name": "Krishi Vigyan Kendra",
+    "question": "The Education Commission (1964-66) recommended that a vigorous effort be made to establish specialized institutions to provide vocational education in agriculture and allied fields to cater to the training needs of a large number of boys and girls coming from rural areas. The recommendation led to establishment of",
+    "answer": "Krishi Vigyan Kendra",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: The Education Commission (1964-66) recommended that a vigorous effort be made to establish specialized institutions to provide vocational education in agriculture and allied fields to cater to the training needs of a large number of boys and girls coming from rural areas. The recommendation led to establishment of Answer: Krishi Vigyan Kendra. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_based_on_the_recommendation_of_4f22ef8e",
+    "domain": "govt_schemes",
+    "scheme_name": "Imperial Council of Agricultural Research",
+    "question": "Based on the recommendation of Royal Commission on Agriculture, an institution was established in the year 1929 to coordinate, guide and manage research and education in agriculture and allied sciences is .....",
+    "answer": "Imperial Council of Agricultural Research",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Based on the recommendation of Royal Commission on Agriculture, an institution was established in the year 1929 to coordinate, guide and manage research and education in agriculture and allied sciences is ..... Answer: Imperial Council of Agricultural Research. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_in_which_year_government_of_in_9dadde2a",
+    "domain": "govt_schemes",
+    "scheme_name": "1974-75",
+    "question": "In which year Government of India took the decision to establish one Krishi Vigyan Kendra in each district.",
+    "answer": "1974-75",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: In which year Government of India took the decision to establish one Krishi Vigyan Kendra in each district. Answer: 1974-75. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_national_commission_for_women__198eef56",
+    "domain": "govt_schemes",
+    "scheme_name": "1992",
+    "question": "National Commission for Women as an apex statutory body at national level for protecting and safequarding the rights of women was set up in which year?",
+    "answer": "1992",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: National Commission for Women as an apex statutory body at national level for protecting and safequarding the rights of women was set up in which year? Answer: 1992. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_given_below_are_two_statements_8cd4779a",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "Given below are two statements: Statement (I): The Government monitors the compliance of Corporate Social Responsibility (CSR) provisions through the disclosures made by the companies in the MCA 21 portal. Statement (II): For any violation of CSR provisions, action can be initiated by the Government against such non-compliant companies as per provisions of the Companies Act, 2013 after due examination of records, and following due process of law. In light of the above statements, choose the most appropriate answer from the options given below.",
+    "answer": "Both Statement (I) and Statement (II) are correct.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Given below are two statements: Statement (I): The Government monitors the compliance of Corporate Social Responsibility (CSR) provisions through the disclosures made by the companies in the MCA 21 portal. Statement (II): For any violation of CSR provisions, action can be initiated by the Government against such non-compliant companies as per provisions of the Companies Act, 2013 after due examination of records, and following due process of law. In light of the above statements, choose the most appropriate answer from the options given below. Answer: Both Statement (I) and Statement (II) are correct.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_to_strengthen_market_and_value_0b7f75e5",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "To strengthen market and value chain infrastructure and to overcome lack of cold-chain systems in India, GOI has prioritized investment in food parks and cold chain infrastructure. Aso, there is further scope for investment in value chain infrastructure across India, especially in the North East, Sikkim, Uttarakhand, Jammu & Kashmir, Ladakh, and states in the Eastern and Central regions of India under the scheme",
+    "answer": "Market Intervention Scheme (MIS) and Price Support Scheme (PSS)",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: To strengthen market and value chain infrastructure and to overcome lack of cold-chain systems in India, GOI has prioritized investment in food parks and cold chain infrastructure. Aso, there is further scope for investment in value chain infrastructure across India, especially in the North East, Sikkim, Uttarakhand, Jammu & Kashmir, Ladakh, and states in the Eastern and Central regions of India under the scheme Answer: Market Intervention Scheme (MIS) and Price Support Scheme (PSS). This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt___table___the_gopa_issued_by_t_753fc87e",
+    "domain": "govt_schemes",
+    "scheme_name": "Grant of Permission Acceptance",
+    "question": "<@Table>?,The GOPA issued by the Ministry of Information and Broadcasting will enable a Letter of Intent holder related to Community Radio Establishment to seek wireless operating license. What does GOPA stand for,\n1. Generation of Permission Acceptance 2. Grant of Permission Acceptance 3. Grant of Performance Acceptance 4. Grant of Permission Agreement,,\n0 1 ○ 2 (Chosen Option) ‍යා 0  4 C,,</@Table>",
+    "answer": "Grant of Permission Acceptance",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: <@Table>?,The GOPA issued by the Ministry of Information and Broadcasting will enable a Letter of Intent holder related to Community Radio Establishment to seek wireless operating license. What does GOPA stand for,\n1. Generation of Permission Acceptance 2. Grant of Permission Acceptance 3. Grant of Performance Acceptance 4. Grant of Permission Agreement,,\n0 1 ○ 2 (Chosen Option) ‍යා 0  4 C,,</@Table> Answer: Grant of Permission Acceptance. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_match_the_floowing___table_lis_81041f74",
+    "domain": "govt_schemes",
+    "scheme_name": "Commodity based extension approach",
+    "question": "Match the floowing <@Table>List-1 Government Schemes,List-II Organisations promoting Secondary Agriculture\n\"(Book/Theory proposed/Characteristic, etc.)\",\"(Author/Thinker/Name of Theory, etc.)\"\nSupport Scheme(PSS),\"(A), Market Intervention Scheme (MIS) and Price (()). Department of Science & Technology (DST) (Ministry of Science & Technology)\"\n(B). Deendayal Upadhyay Swaniyojan Yojana (II). (DUSY),Ministry of Skill Development and Entrepreneurship (MSDE)\n(C). Innovation in Science Pursuit for Inspired Research Program,\"(III). Ministry of Micro, Small & Medium Enterprises\"\n(D). National Apprenticeship Promotion Scheme (NAPS),(IV). Ministry of Agriculture & Farmers Welfare\n,(V). Ministry of Rural Development\n\"Choose the correct answer from the options given below: 1. (A) - (IV), (B) - (V), (C) - (I), (D) - (I), (D) - (II) 2. (A) - (IV), (B) - (III), (C) - (I), (D) - (I), (D) - (V) 3. (A) - (V), (B) - (IV), (C) - (II), (D) - (I) 4. (A) - (III), (B) - (IV), (C) - (I), (D) - (II) 1 (Chosen Option) O 2 ○  3 C\",\n4 C,</@Table>",
+    "answer": "Commodity based extension approach",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Match the column",
+      "question_level": "Hard",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Match the floowing <@Table>List-1 Government Schemes,List-II Organisations promoting Secondary Agriculture\n\"(Book/Theory proposed/Characteristic, etc.)\",\"(Author/Thinker/Name of Theory, etc.)\"\nSupport Scheme(PSS),\"(A), Market Intervention Scheme (MIS) and Price (()). Department of Science & Technology (DST) (Ministry of Science & Technology)\"\n(B). Deendayal Upadhyay Swaniyojan Yojana (II). (DUSY),Ministry of Skill Development and Entrepreneurship (MSDE)\n(C). Innovation in Science Pursuit for Inspired Research Program,\"(III). Ministry of Micro, Small & Medium Enterprises\"\n(D). National Apprenticeship Promotion Scheme (NAPS),(IV). Ministry of Agriculture & Farmers Welfare\n,(V). Ministry of Rural Development\n\"Choose the correct answer from the options given below: 1. (A) - (IV), (B) - (V), (C) - (I), (D) - (I), (D) - (II) 2. (A) - (IV), (B) - (III), (C) - (I), (D) - (I), (D) - (V) 3. (A) - (V), (B) - (IV), (C) - (II), (D) - (I) 4. (A) - (III), (B) - (IV), (C) - (I), (D) - (II) 1 (Chosen Option) O 2 ○  3 C\",\n4 C,</@Table> Answer: Commodity based extension approach. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_given_below_are_two_statements_1406df01",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "Given below are two statements: Statement (1): Corporate Social Responsibility (CSR) is a board-driven process, and the Board constituted by the company for the purpose is empowered to plan, approve, execute, and monitor the CSR activities of the company based on the recommendation of its CSR Committee. Statement (II): The Government has a direct role in the approval and implementation of the CSR programmes /projects of a company In light of the above statements, choose the most appropriate answer from the options given below.",
+    "answer": "Statement (I) is correct but Statement (II) is incorrect.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Given below are two statements: Statement (1): Corporate Social Responsibility (CSR) is a board-driven process, and the Board constituted by the company for the purpose is empowered to plan, approve, execute, and monitor the CSR activities of the company based on the recommendation of its CSR Committee. Statement (II): The Government has a direct role in the approval and implementation of the CSR programmes /projects of a company In light of the above statements, choose the most appropriate answer from the options given below. Answer: Statement (I) is correct but Statement (II) is incorrect.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_national_sickle_cell_anaem_ebe583a1",
+    "domain": "govt_schemes",
+    "scheme_name": "2047",
+    "question": "The National Sickle Cell Anaemia Elimination Mission aims to eliminate sickle cell disease by which year?",
+    "answer": "2047",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: The National Sickle Cell Anaemia Elimination Mission aims to eliminate sickle cell disease by which year? Answer: 2047. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_how_many_crore_people_are_targ_f29ff35e",
+    "domain": "govt_schemes",
+    "scheme_name": "9",
+    "question": "How many crore people are targeted for screening under the National Sickle Cell Anaemia Elimination Mission in 3 years?",
+    "answer": "9",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: How many crore people are targeted for screening under the National Sickle Cell Anaemia Elimination Mission in 3 years? Answer: 9. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_states__03724847",
+    "domain": "govt_schemes",
+    "scheme_name": "Punjab",
+    "question": "Which of the following states is NOT included in the 17 high-focus states for the Sickle Cell Mission?",
+    "answer": "Punjab",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which of the following states is NOT included in the 17 high-focus states for the Sickle Cell Mission? Answer: Punjab. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_sickle_cell_anaemia_elimin_27e581b8",
+    "domain": "govt_schemes",
+    "scheme_name": "Mission Indradhanush",
+    "question": "The Sickle Cell Anaemia Elimination Mission is implemented under which national program?",
+    "answer": "Mission Indradhanush",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: The Sickle Cell Anaemia Elimination Mission is implemented under which national program? Answer: Mission Indradhanush. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_trades__ebdc16ef",
+    "domain": "govt_schemes",
+    "scheme_name": "Wooden toy-making",
+    "question": "Which of the following trades is eligible under PM Vishwakarma Yojana?",
+    "answer": "Wooden toy-making",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which of the following trades is eligible under PM Vishwakarma Yojana? Answer: Wooden toy-making. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_under_the_scheme_for_sc_st_stu_88804047",
+    "domain": "govt_schemes",
+    "scheme_name": "Rs. 8 lakhs",
+    "question": "Under the scheme for SC/ST students for abroad studies, what is the maximum annual family income allowed?",
+    "answer": "Rs. 8 lakhs",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Under the scheme for SC/ST students for abroad studies, what is the maximum annual family income allowed? Answer: Rs. 8 lakhs. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_svamitva_scheme_is_implemented_c63ddc4c",
+    "domain": "govt_schemes",
+    "scheme_name": "Ministry of Panchayati Raj",
+    "question": "SVAMITVA scheme is implemented by which ministry?",
+    "answer": "Ministry of Panchayati Raj",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: SVAMITVA scheme is implemented by which ministry? Answer: Ministry of Panchayati Raj. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_the_maximum_loan_amoun_3fbe191b",
+    "domain": "govt_schemes",
+    "scheme_name": "Rs. 15,000",
+    "question": "What is the maximum loan amount under PM SVANidhi scheme?",
+    "answer": "Rs. 15,000",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: What is the maximum loan amount under PM SVANidhi scheme? Answer: Rs. 15,000. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_match_list_i_with_list_ii___ta_55976c85",
+    "domain": "govt_schemes",
+    "scheme_name": "I-D, II-A, III-B, IV-C",
+    "question": "Match List I with List II <@Table>,\nList |,List II\nl. National Rural Livelihoods Mission (NRLM),A. Improving land productivity\n\"ll, Integrated Watershed Management Programme (IWMP)\",B. Housing to BPL households\nIII. Pradhan Mantri Awaas Yojana - Grameen (PMAY-G),C. Providing wage employment\n,</@Table> \nIV. Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)D. Self-employment and skill development Choose the correct answer from the options given below:",
+    "answer": "I-D, II-A, III-B, IV-C",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Match the column",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Match List I with List II <@Table>,\nList |,List II\nl. National Rural Livelihoods Mission (NRLM),A. Improving land productivity\n\"ll, Integrated Watershed Management Programme (IWMP)\",B. Housing to BPL households\nIII. Pradhan Mantri Awaas Yojana - Grameen (PMAY-G),C. Providing wage employment\n,</@Table> \nIV. Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)D. Self-employment and skill development Choose the correct answer from the options given below: Answer: I-D, II-A, III-B, IV-C. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_antyodaya_anna_yojana__aay__wa_ca7d2404",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "Antyodaya Anna Yojana (AAY) was launched to provide-",
+    "answer": "provide subsidized food grains to people living below the poverty line",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Antyodaya Anna Yojana (AAY) was launched to provide- Answer: provide subsidized food grains to people living below the poverty line. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_scheme_promoting_clean_fuel_fo_86056110",
+    "domain": "govt_schemes",
+    "scheme_name": "Ujjwala",
+    "question": "Scheme promoting clean fuel for women from BPL families is -",
+    "answer": "Ujjwala",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Scheme promoting clean fuel for women from BPL families is - Answer: Ujjwala. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_following_programmes_were__e984f42c",
+    "domain": "govt_schemes",
+    "scheme_name": "B, C and E only",
+    "question": "The following programmes were merged together to create SGSY scheme- A. IGMSY B. IRDP C.TRYSEM D. NRDP E. DWCRA Choose the correct answer from the options given below:",
+    "answer": "B, C and E only",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: The following programmes were merged together to create SGSY scheme- A. IGMSY B. IRDP C.TRYSEM D. NRDP E. DWCRA Choose the correct answer from the options given below: Answer: B, C and E only. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_given_below_are_two_statements_a69a00f5",
+    "domain": "govt_schemes",
+    "scheme_name": "Both Statement I and Statement II are false",
+    "question": "Given below are two statements Statement I: Dyadic communication is a type of mass communication, Statement II: The speed of transmission of messages through dyadic communication is fast, In light of the above statements, choose the correct answer from the options given below",
+    "answer": "Both Statement I and Statement II are false",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Given below are two statements Statement I: Dyadic communication is a type of mass communication, Statement II: The speed of transmission of messages through dyadic communication is fast, In light of the above statements, choose the correct answer from the options given below Answer: Both Statement I and Statement II are false. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_match_list_i_with_list_ii___ta_84b0eee2",
+    "domain": "govt_schemes",
+    "scheme_name": "A - IV, B - II, C - V, D - III",
+    "question": "Match List I with List II <@Table>,\nList |,List II\nProgramme / Act,Year\nA. Prevention of Domestic Violence Act ||. 2000,\nB. National Rural Livelihood Mission,II. 2011\nC. Swach Bharat Abhiyaan,III. 2015\nD. Prme Minister Gram Awas Yojna,IV. 2005\n,V. 2014</@Table> \nChoose the correct answer from the options given below:",
+    "answer": "A - IV, B - II, C - V, D - III",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Match the column",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Match List I with List II <@Table>,\nList |,List II\nProgramme / Act,Year\nA. Prevention of Domestic Violence Act ||. 2000,\nB. National Rural Livelihood Mission,II. 2011\nC. Swach Bharat Abhiyaan,III. 2015\nD. Prme Minister Gram Awas Yojna,IV. 2005\n,V. 2014</@Table> \nChoose the correct answer from the options given below: Answer: A - IV, B - II, C - V, D - III. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_match_list_i_with_list_ii___ta_e1faac9d",
+    "domain": "govt_schemes",
+    "scheme_name": "A - V , B - II, C - I, D - IV",
+    "question": "Match List I with List II <@Table>List |,List II\nPolicy,Year\nA. New Education Policy,1. 2010\nB. First National Policy for Empowerment of WomenII. 2000,\nC. First National Agriculture Policy,|||. 2014-15\nD. National Mission for Sustainable Agriculture,IV. 2001\n,V. 2020</@Table> \nChoose the correct answer from the options given below:",
+    "answer": "A - V , B - II, C - I, D - IV",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Match the column",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Match List I with List II <@Table>List |,List II\nPolicy,Year\nA. New Education Policy,1. 2010\nB. First National Policy for Empowerment of WomenII. 2000,\nC. First National Agriculture Policy,|||. 2014-15\nD. National Mission for Sustainable Agriculture,IV. 2001\n,V. 2020</@Table> \nChoose the correct answer from the options given below: Answer: A - V , B - II, C - I, D - IV. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_given_below_are_two_statements_b226279f",
+    "domain": "govt_schemes",
+    "scheme_name": "A is false but R is true",
+    "question": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R Assertion A : PURA as a strategy for rural development was launched in the year 2017 by the Government, Reason R : PURA was launched to prevent migration of rural youth to urban areas for better infrastructure and facilities, In light of the above statements, choose the correct answer from the options given below",
+    "answer": "A is false but R is true",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Assertion or Reasoning",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R Assertion A : PURA as a strategy for rural development was launched in the year 2017 by the Government, Reason R : PURA was launched to prevent migration of rural youth to urban areas for better infrastructure and facilities, In light of the above statements, choose the correct answer from the options given below Answer: A is false but R is true. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_match_list_i_with_list_ii_list_8c8e872e",
+    "domain": "govt_schemes",
+    "scheme_name": "A - III, B - I, C - II, D - IV",
+    "question": "Match List I with List II\nList I\tList II\nA. Krishi Vigyan Kendra\tI. Government of India\nB. Training for rural youth for self-employment\tII. S. K Dey\nC. Nilokheri Project\tIII. ICAR\nD. India Village Service\tIV. W H Wisher\nChoose the correct answer from the options given below",
+    "answer": "A - III, B - I, C - II, D - IV",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Match the column",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Match List I with List II\nList I\tList II\nA. Krishi Vigyan Kendra\tI. Government of India\nB. Training for rural youth for self-employment\tII. S. K Dey\nC. Nilokheri Project\tIII. ICAR\nD. India Village Service\tIV. W H Wisher\nChoose the correct answer from the options given below Answer: A - III, B - I, C - II, D - IV. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_true_about_mahatma_gan_6903fc8a",
+    "domain": "govt_schemes",
+    "scheme_name": "(B) and (C) only.",
+    "question": "What is true about Mahatma Gandhi National Rural Employment Guarantee Scheme (MNREGS), a flagship rural development programme of Union Government? (A) In phase-I, it was launched in four hundred selected districts of the country in 2006. (B) It is backed by the National Rural Employment Guarantee Act (NREGA) passed by Government of India in 2005. (C) It is fundamentally different from all other wage employment programmes, as it guarantees employment as a legal right. (D) The number of households who availed employment under Mahatma Gandhi NREGS from financial year 2020-21 was 6.55 crore. Choose the correct answer from the options given below:",
+    "answer": "(B) and (C) only.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: What is true about Mahatma Gandhi National Rural Employment Guarantee Scheme (MNREGS), a flagship rural development programme of Union Government? (A) In phase-I, it was launched in four hundred selected districts of the country in 2006. (B) It is backed by the National Rural Employment Guarantee Act (NREGA) passed by Government of India in 2005. (C) It is fundamentally different from all other wage employment programmes, as it guarantees employment as a legal right. (D) The number of households who availed employment under Mahatma Gandhi NREGS from financial year 2020-21 was 6.55 crore. Choose the correct answer from the options given below: Answer: (B) and (C) only.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_stateme_5cee744a",
+    "domain": "govt_schemes",
+    "scheme_name": "(A) and (C) only.",
+    "question": "Which of the following statements are not true? (A). The vice-president of village panchayat has to be directly elected by the voters of the village (B). Reservation for the SC & ST candidates at all levels of Panchayati Raj system is in proportion to their population (C). Election to the village panchayat is to be conducted regularly once in five years under the Central Election Commission (D). Block President and Chairman of Zilla Parishad have to be elected indirectly Choose the correct answer from the options given below:",
+    "answer": "(A) and (C) only.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Hard",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which of the following statements are not true? (A). The vice-president of village panchayat has to be directly elected by the voters of the village (B). Reservation for the SC & ST candidates at all levels of Panchayati Raj system is in proportion to their population (C). Election to the village panchayat is to be conducted regularly once in five years under the Central Election Commission (D). Block President and Chairman of Zilla Parishad have to be elected indirectly Choose the correct answer from the options given below: Answer: (A) and (C) only.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_programme_mission_has_be_28525ebf",
+    "domain": "govt_schemes",
+    "scheme_name": "National Sickle Cell Anaemia Elimination Mission",
+    "question": "Which programme/mission has been launched by Government to prioritize the health of tribal communities by tackling Sickle Cell Anaemia?",
+    "answer": "National Sickle Cell Anaemia Elimination Mission",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which programme/mission has been launched by Government to prioritize the health of tribal communities by tackling Sickle Cell Anaemia? Answer: National Sickle Cell Anaemia Elimination Mission. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_stateme_4c36f961",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "Which of the following statement is incorrect about programme/mission mentioned in the above paragraph?",
+    "answer": "It is being implemented in 17 high focus states across India",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which of the following statement is incorrect about programme/mission mentioned in the above paragraph? Answer: It is being implemented in 17 high focus states across India. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_new_central_sector_sub_s_1f9635cb",
+    "domain": "govt_schemes",
+    "scheme_name": "Pradhan Mantri Matsya Kisan Samridhi Sah Yojana",
+    "question": "Which new Central Sector Sub-scheme was announced under Pradhan Mantri Matsya Sampada Yojana in Union Budget 2023-24 with an objective to enhance further the earnings and incomes of fishermen, fish vendors and micro & small enterprises engaged in fisheries sector?",
+    "answer": "Pradhan Mantri Matsya Kisan Samridhi Sah Yojana",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which new Central Sector Sub-scheme was announced under Pradhan Mantri Matsya Sampada Yojana in Union Budget 2023-24 with an objective to enhance further the earnings and incomes of fishermen, fish vendors and micro & small enterprises engaged in fisheries sector? Answer: Pradhan Mantri Matsya Kisan Samridhi Sah Yojana. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_whom_amongst_the_following_per_2c86ecbe",
+    "domain": "govt_schemes",
+    "scheme_name": "1 and 2 Only",
+    "question": "Whom amongst the following persons are eligible to avail the benefits under PM Vishwakarma Scheme? 1) Ramesh who is a traditional wood rubber artisan 2) An artisan involved in the wooden toy making 3) A girl tailor whose husband is working as government servant",
+    "answer": "1 and 2 Only",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Whom amongst the following persons are eligible to avail the benefits under PM Vishwakarma Scheme? 1) Ramesh who is a traditional wood rubber artisan 2) An artisan involved in the wooden toy making 3) A girl tailor whose husband is working as government servant Answer: 1 and 2 Only. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_whom_amongst_the_following_per_8a3f054c",
+    "domain": "govt_schemes",
+    "scheme_name": "1 and 3 Only",
+    "question": "Whom amongst the following persons are eligible under \"National Overseas Scheme for SCs\", a sub-scheme of umbrella scheme SHREYAS? 1) A person willing to do PhD from Oxford University 2) An undergraduate professional whose annual income is Rs. 8.5 lakh 3) A person willing to pursue Masters in Science from listed foreign university",
+    "answer": "1 and 3 Only",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Whom amongst the following persons are eligible under \"National Overseas Scheme for SCs\", a sub-scheme of umbrella scheme SHREYAS? 1) A person willing to do PhD from Oxford University 2) An undergraduate professional whose annual income is Rs. 8.5 lakh 3) A person willing to pursue Masters in Science from listed foreign university Answer: 1 and 3 Only. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_scheme__ce4e6804",
+    "domain": "govt_schemes",
+    "scheme_name": "SVAMITVA Scheme",
+    "question": "Which of the following scheme aims to provide the 'Record of Rights' to village household owners possessing houses in inhabited areas, called Abadi in some States, with legal ownership rights (Property cards/Title deeds)?",
+    "answer": "SVAMITVA Scheme",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which of the following scheme aims to provide the 'Record of Rights' to village household owners possessing houses in inhabited areas, called Abadi in some States, with legal ownership rights (Property cards/Title deeds)? Answer: SVAMITVA Scheme. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_program_mission_has_been_aa0a7ffa",
+    "domain": "govt_schemes",
+    "scheme_name": "Atmanirbhar Clean Plant Program",
+    "question": "Which program/mission has been announced in the Union Budget 2023-24 with an outlay of Rs. 2,200 crores to boost availability of quality planting material for high value horticultural crops?",
+    "answer": "Atmanirbhar Clean Plant Program",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which program/mission has been announced in the Union Budget 2023-24 with an outlay of Rs. 2,200 crores to boost availability of quality planting material for high value horticultural crops? Answer: Atmanirbhar Clean Plant Program. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_scheme_aims_to_provide_f_7b7a2058",
+    "domain": "govt_schemes",
+    "scheme_name": "PM SVANidhi Scheme",
+    "question": "Which scheme aims to provide financial support to street vendors to resume their livelihoods and help them become self-reliant?",
+    "answer": "PM SVANidhi Scheme",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Which scheme aims to provide financial support to street vendors to resume their livelihoods and help them become self-reliant? Answer: PM SVANidhi Scheme. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_for_construction_of_greenhouse_ce34ed89",
+    "domain": "govt_schemes",
+    "scheme_name": "Ethylene tetrafluoroethylene",
+    "question": "For construction of greenhouses, which of the following cladding material has the highest light transmission (95%) that also has long life?",
+    "answer": "Ethylene tetrafluoroethylene",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "MCQ",
+      "question_level": "Hard",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agriculture Communication: For construction of greenhouses, which of the following cladding material has the highest light transmission (95%) that also has long life? Answer: Ethylene tetrafluoroethylene. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_consider_the_following_stateme_7b09c72c",
+    "domain": "govt_schemes",
+    "scheme_name": "(A), (B) and (C).",
+    "question": "Consider the following statements (B). Odisha govt. ropes in FICCI to promote millets globally (C). Odisha Millets Mission is a flagship programme of the Odisha government to revive millets in farms and on plates Choose the correct answer from the options given below:",
+    "answer": "(A), (B) and (C).",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - General Knowledge & Reasoning: Consider the following statements (B). Odisha govt. ropes in FICCI to promote millets globally (C). Odisha Millets Mission is a flagship programme of the Odisha government to revive millets in farms and on plates Choose the correct answer from the options given below: Answer: (A), (B) and (C).. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_consider_the_following_stateme_b1b3e37b",
+    "domain": "govt_schemes",
+    "scheme_name": "It follows a cluster based approach",
+    "question": "Consider the following statements about PM Krishi Sinchai Yojana and identify the incorrect statement: It converges with MGNREG 1. It has subsumed the Desert Development Program 2. It has not subsumed the Drought Prone Area Development Program 3. It follows a cluster based approach 4. None is incorrect",
+    "answer": "It follows a cluster based approach",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Consider the following statements about PM Krishi Sinchai Yojana and identify the incorrect statement: It converges with MGNREG 1. It has subsumed the Desert Development Program 2. It has not subsumed the Drought Prone Area Development Program 3. It follows a cluster based approach 4. None is incorrect Answer: It follows a cluster based approach. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_statement_about_the_prad_e66d5dae",
+    "domain": "govt_schemes",
+    "scheme_name": "Government Scheme",
+    "question": "Which statement about the Pradhan Mantri Suraksha Bima Yojana (PMSBY) is CORRECT?",
+    "answer": "The premium is just Rs. 12 per annum for each policyholder.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which statement about the Pradhan Mantri Suraksha Bima Yojana (PMSBY) is CORRECT? Answer: The premium is just Rs. 12 per annum for each policyholder.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_second_phase_of_the_swachh_909705a3",
+    "domain": "govt_schemes",
+    "scheme_name": "2020-21 to 2024-25",
+    "question": "The second phase of the Swachh Bharat Mission (Grameen) is to be implemented during which time period?",
+    "answer": "2020-21 to 2024-25",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: The second phase of the Swachh Bharat Mission (Grameen) is to be implemented during which time period? Answer: 2020-21 to 2024-25. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_the_motto_of_jal_jeeva_cc47d559",
+    "domain": "govt_schemes",
+    "scheme_name": "Building Partnership and Changing Lives",
+    "question": "What is the Motto of Jal Jeevan Mission?",
+    "answer": "Building Partnership and Changing Lives",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: What is the Motto of Jal Jeevan Mission? Answer: Building Partnership and Changing Lives. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_pradhan_mantri_matru_vandana_y_4ded717a",
+    "domain": "govt_schemes",
+    "scheme_name": "Pregnant Women and lactating women",
+    "question": "Pradhan Mantri Matru Vandana Yojana (PMMVY) has been in news recently. It is a scheme for",
+    "answer": "Pregnant Women and lactating women",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Pradhan Mantri Matru Vandana Yojana (PMMVY) has been in news recently. It is a scheme for Answer: Pregnant Women and lactating women. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_what_is_the_budget_allocation__b47ed55c",
+    "domain": "govt_schemes",
+    "scheme_name": "Rs 19,000 crore",
+    "question": "What is the budget allocation of Pradhan Mantri Gram Sadak Yojana for 2022-23?",
+    "answer": "Rs 19,000 crore",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: What is the budget allocation of Pradhan Mantri Gram Sadak Yojana for 2022-23? Answer: Rs 19,000 crore. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_among_the_following_is_t_3a4cdb52",
+    "domain": "govt_schemes",
+    "scheme_name": "Life Insurance Corporation",
+    "question": "Which among the following is the fund manager for Pradhan Mantri Shram Yogi Maan Dhan Yojana?",
+    "answer": "Life Insurance Corporation",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which among the following is the fund manager for Pradhan Mantri Shram Yogi Maan Dhan Yojana? Answer: Life Insurance Corporation. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_recently__june_2022___the_prem_2a1d16a8",
+    "domain": "govt_schemes",
+    "scheme_name": "Rs. 436",
+    "question": "Recently (June 2022), the premium under Pradhan Mantri Jeevan Jyoti Beema Yojana has been enhanced to what amount?",
+    "answer": "Rs. 436",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Recently (June 2022), the premium under Pradhan Mantri Jeevan Jyoti Beema Yojana has been enhanced to what amount? Answer: Rs. 436. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_is_not__97edebed",
+    "domain": "govt_schemes",
+    "scheme_name": "None of the above",
+    "question": "Which of the following is not the component of Atal Vayo Abhyudya Yojana?",
+    "answer": "None of the above",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which of the following is not the component of Atal Vayo Abhyudya Yojana? Answer: None of the above. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_among_the_following_feat_c7c756dc",
+    "domain": "govt_schemes",
+    "scheme_name": "Option B",
+    "question": "Which among the following features are incorrect about the national Education Policy 2020? A. Ensuring Universal Access at All Levels of schooling from pre- primary school to Grade 12. B. Ensuring quality early childhood care and education for all children between 3-9 years. C. New Curricular and Pedagogical Structure (5+3+3+4). D. Gross et Enrolment Ratio in higher education to be raised to 50 % by 2035. E. Establishing National Mission on Foundational Literacy and Numeracy.",
+    "answer": "Option B",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which among the following features are incorrect about the national Education Policy 2020? A. Ensuring Universal Access at All Levels of schooling from pre- primary school to Grade 12. B. Ensuring quality early childhood care and education for all children between 3-9 years. C. New Curricular and Pedagogical Structure (5+3+3+4). D. Gross et Enrolment Ratio in higher education to be raised to 50 % by 2035. E. Establishing National Mission on Foundational Literacy and Numeracy. Answer: Option B. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_swachh_bharat_mission_grameen__704f28a3",
+    "domain": "govt_schemes",
+    "scheme_name": "2021-22 to 2024-25",
+    "question": "Swachh Bharat Mission Grameen Phase 2 is active during",
+    "answer": "2021-22 to 2024-25",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Swachh Bharat Mission Grameen Phase 2 is active during Answer: 2021-22 to 2024-25. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_under_the_ayushman_bharat_sche_2c8e3899",
+    "domain": "govt_schemes",
+    "scheme_name": "Rs. 5 lakhs",
+    "question": "Under the Ayushman Bharat Scheme, the selected beneficiaries will get health cover of every year for hospitalization.",
+    "answer": "Rs. 5 lakhs",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Under the Ayushman Bharat Scheme, the selected beneficiaries will get health cover of every year for hospitalization. Answer: Rs. 5 lakhs. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_jal_jeevan_mission_is_envision_f9a89bba",
+    "domain": "govt_schemes",
+    "scheme_name": "2024",
+    "question": "Jal Jeevan Mission is envisioned to provide safe and adequate drinking water through individual household tap connection to all households in rural India by the year:",
+    "answer": "2024",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Jal Jeevan Mission is envisioned to provide safe and adequate drinking water through individual household tap connection to all households in rural India by the year: Answer: 2024. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_sagarmala_initiative_has_been__3c7ef5a4",
+    "domain": "govt_schemes",
+    "scheme_name": "14500 Kms",
+    "question": "Sagarmala initiative has been undertaken by the Government of India in order to cover the coastal line of India of 7500 kms along with",
+    "answer": "14500 Kms",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Sagarmala initiative has been undertaken by the Government of India in order to cover the coastal line of India of 7500 kms along with Answer: 14500 Kms. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_consider_the_following_stateme_78fe86d3",
+    "domain": "govt_schemes",
+    "scheme_name": "1, 2, and 3",
+    "question": "Consider the following statements about Sub Mission on Agriculture Scheme: 1. 80% of the project cost for a project costing Rs 10 Lakhs is provided to co-operative societies, FPOs and Panchayat. 2. 40% to 50% of the cost depending on the category of farmers is provided for purchase of agriculture machinery. 3. For North Eastern states, Farm Machinery Bank is at 95% of the project cost up to Rs 10 lakh. Which of the above statement is true?",
+    "answer": "1, 2, and 3",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Consider the following statements about Sub Mission on Agriculture Scheme: 1. 80% of the project cost for a project costing Rs 10 Lakhs is provided to co-operative societies, FPOs and Panchayat. 2. 40% to 50% of the cost depending on the category of farmers is provided for purchase of agriculture machinery. 3. For North Eastern states, Farm Machinery Bank is at 95% of the project cost up to Rs 10 lakh. Which of the above statement is true? Answer: 1, 2, and 3. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_mkisan_is_a_portal_for_farmers_c15dfc03",
+    "domain": "govt_schemes",
+    "scheme_name": "SMS",
+    "question": "mKisan is a portal for farmers to enable government organizations in agriculture to give information/services.",
+    "answer": "SMS",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: mKisan is a portal for farmers to enable government organizations in agriculture to give information/services. Answer: SMS. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_recently__which_state_governme_56235900",
+    "domain": "govt_schemes",
+    "scheme_name": "Haryana",
+    "question": "Recently, which state government launched the 'Chaara-Bijaee Yojana' to encourage farmers to grow fodder and help gaushalas?",
+    "answer": "Haryana",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Recently, which state government launched the 'Chaara-Bijaee Yojana' to encourage farmers to grow fodder and help gaushalas? Answer: Haryana. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_of_the_following_is_a_sc_8ccddbb8",
+    "domain": "govt_schemes",
+    "scheme_name": "KVK",
+    "question": "Which of the following is a scheme meant for both transfer of farm technologies and vocational skill development 1. IAAP 2. IADP 3. IVLP 4. KVK",
+    "answer": "KVK",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which of the following is a scheme meant for both transfer of farm technologies and vocational skill development 1. IAAP 2. IADP 3. IVLP 4. KVK Answer: KVK. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_national_knowledge_commission__c0fcff4b",
+    "domain": "govt_schemes",
+    "scheme_name": "18-04-2004",
+    "question": "National Knowledge Commission was established on : 1. 12-01-2003 2. 18-04-2004 3. 13-06-2005 4. 5-06-2006",
+    "answer": "18-04-2004",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: National Knowledge Commission was established on : 1. 12-01-2003 2. 18-04-2004 3. 13-06-2005 4. 5-06-2006 Answer: 18-04-2004. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_facilities_provided_by_ext_efbfc532",
+    "domain": "govt_schemes",
+    "scheme_name": "Extension Service",
+    "question": "The facilities provided by extension agencies to the clientele groups including advisory services, soil testing services, market information services, water testing services, seed testing services, consultancy services, availability of seed, fertilizer, plat protection chemicals, availability of subsidy, credit and insurance services etc are termed as 1. Agricultural Extension 2. Extension Education 3. Rural Extension 4. Extension Service",
+    "answer": "Extension Service",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: The facilities provided by extension agencies to the clientele groups including advisory services, soil testing services, market information services, water testing services, seed testing services, consultancy services, availability of seed, fertilizer, plat protection chemicals, availability of subsidy, credit and insurance services etc are termed as 1. Agricultural Extension 2. Extension Education 3. Rural Extension 4. Extension Service Answer: Extension Service. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_national_mission_for_empowerme_de290333",
+    "domain": "govt_schemes",
+    "scheme_name": "2010",
+    "question": "National Mission for Empowerment of Women' which was aimed at promoting overall development of women, was launched in which year? 1. 2005 2. 2010 3. 2015 4. 2020",
+    "answer": "2010",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: National Mission for Empowerment of Women' which was aimed at promoting overall development of women, was launched in which year? 1. 2005 2. 2010 3. 2015 4. 2020 Answer: 2010. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_the_krishi_vigyan_kendra_were__61861f91",
+    "domain": "govt_schemes",
+    "scheme_name": "Education Commission (1964-66)",
+    "question": "The Krishi Vigyan Kendra were established upon the recommendation of _ 1. Balwant Rai Mehta Commission 2. Radhakrishnan Commission 3. Education Commission (1964-66) 4. National Farmers Commission",
+    "answer": "Education Commission (1964-66)",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: The Krishi Vigyan Kendra were established upon the recommendation of _ 1. Balwant Rai Mehta Commission 2. Radhakrishnan Commission 3. Education Commission (1964-66) 4. National Farmers Commission Answer: Education Commission (1964-66). This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_salient_features_of_strategic__4ffed6c7",
+    "domain": "govt_schemes",
+    "scheme_name": "(B), (C), (D) and (E) only.",
+    "question": "Salient features of strategic plan are (A) It has short time frame (3 years or less) (B) It is aligned to the vision, mission and values of the organization (C) It involves SWOT analysis (D) It is prepared with active involvement of top management (E) It allocates resources to pursue envisaged activities Choose the correct answer from the options given below: 1. (A), (C), (D) and (E) only. 2. (B), (C), (D) and (E) only. 3. (C), (D), (E) and (A) only. 4. (D), (E), (A) and (B) only.",
+    "answer": "(B), (C), (D) and (E) only.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Salient features of strategic plan are (A) It has short time frame (3 years or less) (B) It is aligned to the vision, mission and values of the organization (C) It involves SWOT analysis (D) It is prepared with active involvement of top management (E) It allocates resources to pursue envisaged activities Choose the correct answer from the options given below: 1. (A), (C), (D) and (E) only. 2. (B), (C), (D) and (E) only. 3. (C), (D), (E) and (A) only. 4. (D), (E), (A) and (B) only. Answer: (B), (C), (D) and (E) only.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_which_among_the_given_below_ar_eb6f5af2",
+    "domain": "govt_schemes",
+    "scheme_name": "(A), (B) and (C) only.",
+    "question": "Which among the given below are the objectives of the National Creche Scheme for the Children of Working Mothers? (A) To provide day-care facilities for children (6 months to 6 years) of working mothers in the community. (B) To improve nutrition and health status of children. (C) To promote physical, cognitive, social and emotional development (Holistic Development) of children. (D) To address the violence against the women. Choose the correct answer from the options given below: 1. (A), (B) and (C) only. 2. (A), (C) and (D) only. 3. (B), (C) and (D) only. 4. (A), (B), (C) and (D).",
+    "answer": "(A), (B) and (C) only.",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Which among the given below are the objectives of the National Creche Scheme for the Children of Working Mothers? (A) To provide day-care facilities for children (6 months to 6 years) of working mothers in the community. (B) To improve nutrition and health status of children. (C) To promote physical, cognitive, social and emotional development (Holistic Development) of children. (D) To address the violence against the women. Choose the correct answer from the options given below: 1. (A), (B) and (C) only. 2. (A), (C) and (D) only. 3. (B), (C) and (D) only. 4. (A), (B), (C) and (D). Answer: (A), (B) and (C) only.. This relates to agricultural policies and farmer welfare schemes."
+  },
+  {
+    "id": "govt_given_below_are_two_statements_bade0b5e",
+    "domain": "govt_schemes",
+    "scheme_name": "Both Statement I and Statement II are true",
+    "question": "Given below are two statements: Statement I: Mera Gaon Mera Gaurav Scheme under extension education was launched by Prime Minister Sh. Narender Modi with the theme 'Lab to Land' by asking scientists to adopt villages and remain in touch with them providing technical information to farmers and other aspects Statement II: The scheme Mera Gaon Mera Gaurav functions with the help of Krishi Vigyan Kendra (KVKs) and Agriculture Technology Management Agencies (ATMA) In the light of above statements, choose the most appropriate answer from the options given below:",
+    "answer": "Both Statement I and Statement II are true",
+    "benefits": "As per scheme guidelines",
+    "eligibility": [
+      "Farmers as per scheme criteria"
+    ],
+    "application_process": [
+      "Contact local agriculture office",
+      "Online/offline registration"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Government Scheme Knowledge - Agricultural Extension Education: Given below are two statements: Statement I: Mera Gaon Mera Gaurav Scheme under extension education was launched by Prime Minister Sh. Narender Modi with the theme 'Lab to Land' by asking scientists to adopt villages and remain in touch with them providing technical information to farmers and other aspects Statement II: The scheme Mera Gaon Mera Gaurav functions with the help of Krishi Vigyan Kendra (KVKs) and Agriculture Technology Management Agencies (ATMA) In the light of above statements, choose the most appropriate answer from the options given below: Answer: Both Statement I and Statement II are true. This relates to agricultural policies and farmer welfare schemes."
+  }
+]

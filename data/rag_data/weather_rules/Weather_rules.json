@@ -1,0 +1,234 @@
+[
+  {
+    "id": "final_irri_0001",
+    "intent": "weather_advisory",
+    "title": "Irrigation",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "irrigation"
+    ],
+    "created_at": "2025-12-17T19:16:29.975546",
+    "condition": "Water management",
+    "risk": "Water stress",
+    "advice": ""
+  },
+  {
+    "id": "final_irri_0002",
+    "intent": "weather_advisory",
+    "title": "Irrigation",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "irrigation"
+    ],
+    "created_at": "2025-12-17T19:16:29.975550",
+    "condition": "Water management",
+    "risk": "Water stress",
+    "advice": ""
+  },
+  {
+    "id": "final_irri_0003",
+    "intent": "weather_advisory",
+    "title": "Irrigation",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "irrigation"
+    ],
+    "created_at": "2025-12-17T19:16:29.975554",
+    "condition": "Water management",
+    "risk": "Water stress",
+    "advice": ""
+  },
+  {
+    "id": "final_irri_0004",
+    "intent": "weather_advisory",
+    "title": "Irrigation",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "irrigation"
+    ],
+    "created_at": "2025-12-17T19:16:29.975557",
+    "condition": "Water management",
+    "risk": "Water stress",
+    "advice": ""
+  },
+  {
+    "id": "final_clim_0005",
+    "intent": "weather_advisory",
+    "title": "Climate Change Impact",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "climate"
+    ],
+    "created_at": "2025-12-17T19:16:29.975700",
+    "condition": "Climate Change Impact",
+    "risk": "",
+    "advice": ""
+  },
+  {
+    "id": "final_clim_0006",
+    "intent": "weather_advisory",
+    "title": "Weather-based Advisories",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "climate"
+    ],
+    "created_at": "2025-12-17T19:16:29.975704",
+    "condition": "Weather-based Advisories",
+    "risk": "",
+    "advice": ""
+  },
+  {
+    "id": "final_qa_wat_0007",
+    "intent": "weather_advisory",
+    "title": "How to schedule irrigation?",
+    "content": "Q: How to schedule irrigation?\nA: Irrigation scheduling methods: 1) Critical stage approach - irrigate at sensitive growth stages, 2) Soil moisture based - use tensiometer, soil feel, 3) Weather based - calculate ET (evapotranspiration), 4) Visual symptoms - don't wait till wilting. Drip: daily or alternate days. Surface: based on soil type - sandy (frequent), clay (less frequent).",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "water"
+    ],
+    "created_at": "2025-12-17T19:16:29.975978",
+    "condition": "Water Management",
+    "risk": "Water stress",
+    "advice": "Irrigation scheduling methods: 1) Critical stage approach - irrigate at sensitive growth stages, 2) Soil moisture based - use tensiometer, soil feel, 3) Weather based - calculate ET (evapotranspiration), 4) Visual symptoms - don't wait till wilting. Drip: daily or alternate days. Surface: based on soil type - sandy (frequent), clay (less frequent)."
+  },
+  {
+    "id": "final_qa_wat_0008",
+    "intent": "weather_advisory",
+    "title": "What is deficit irrigation?",
+    "content": "Q: What is deficit irrigation?\nA: Deficit irrigation intentionally stresses crop by providing less than full water requirement. Benefits: saves water, can improve crop quality (fruits). Applied during less sensitive growth stages. Not recommended during critical stages like flowering. Can increase sugar content in fruits, enhance storage quality. Requires good understanding of crop water needs.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "water"
+    ],
+    "created_at": "2025-12-17T19:16:29.975981",
+    "condition": "Water Management",
+    "risk": "Water stress",
+    "advice": "Deficit irrigation intentionally stresses crop by providing less than full water requirement. Benefits: saves water, can improve crop quality (fruits). Applied during less sensitive growth stages. Not recommended during critical stages like flowering. Can increase sugar content in fruits, enhance storage quality. Requires good understanding of crop water needs."
+  },
+  {
+    "id": "final_qa_wat_0009",
+    "intent": "weather_advisory",
+    "title": "How to harvest rainwater on farm?",
+    "content": "Q: How to harvest rainwater on farm?\nA: Farm rainwater harvesting: 1) Farm ponds - collect runoff, use for irrigation, 2) Percolation tanks - recharge groundwater, 3) Contour bunds - retain water on slopes, 4) Check dams - across seasonal streams, 5) Rooftop harvesting - from farm buildings, 6) Recharge wells. Benefits: supplemental irrigation, groundwater recharge, reduced erosion. Government subsidies available.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "water"
+    ],
+    "created_at": "2025-12-17T19:16:29.975985",
+    "condition": "Water Management",
+    "risk": "Water stress",
+    "advice": "Farm rainwater harvesting: 1) Farm ponds - collect runoff, use for irrigation, 2) Percolation tanks - recharge groundwater, 3) Contour bunds - retain water on slopes, 4) Check dams - across seasonal streams, 5) Rooftop harvesting - from farm buildings, 6) Recharge wells. Benefits: supplemental irrigation, groundwater recharge, reduced erosion. Government subsidies available."
+  },
+  {
+    "id": "final_qa_wat_0010",
+    "intent": "weather_advisory",
+    "title": "What crops are suitable for drip irrigation?",
+    "content": "Q: What crops are suitable for drip irrigation?\nA: Drip irrigation suitable crops: 1) Vegetables - tomato, chili, brinjal, capsicum, cucumber, 2) Fruits - banana, grapes, pomegranate, citrus, mango, papaya, 3) Flowers - rose, gerbera, carnation, 4) Cash crops - sugarcane, cotton, 5) Plantation - coconut, arecanut, oil palm. Less suitable for dense planting crops like wheat, rice. Subsidy 55-90% available.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "water"
+    ],
+    "created_at": "2025-12-17T19:16:29.975987",
+    "condition": "Water Management",
+    "risk": "Water stress",
+    "advice": "Drip irrigation suitable crops: 1) Vegetables - tomato, chili, brinjal, capsicum, cucumber, 2) Fruits - banana, grapes, pomegranate, citrus, mango, papaya, 3) Flowers - rose, gerbera, carnation, 4) Cash crops - sugarcane, cotton, 5) Plantation - coconut, arecanut, oil palm. Less suitable for dense planting crops like wheat, rice. Subsidy 55-90% available."
+  },
+  {
+    "id": "final_qa_wat_0011",
+    "intent": "weather_advisory",
+    "title": "How much water can drip irrigation save?",
+    "content": "Q: How much water can drip irrigation save?\nA: Drip irrigation saves 30-50% water compared to flood irrigation. Water use efficiency: Flood 30-40%, Sprinkler 60-70%, Drip 90%. Additional benefits: 20-30% higher yield, reduced weed growth, lower disease incidence, fertigation possible, suitable for undulating terrain. ROI typically within 2-3 years.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "water"
+    ],
+    "created_at": "2025-12-17T19:16:29.975990",
+    "condition": "Water Management",
+    "risk": "Water stress",
+    "advice": "Drip irrigation saves 30-50% water compared to flood irrigation. Water use efficiency: Flood 30-40%, Sprinkler 60-70%, Drip 90%. Additional benefits: 20-30% higher yield, reduced weed growth, lower disease incidence, fertigation possible, suitable for undulating terrain. ROI typically within 2-3 years."
+  },
+  {
+    "id": "final_wiki_weat_0012",
+    "intent": "weather_advisory",
+    "title": "Irrigation",
+    "content": "### Extent\nIn 2000, the total fertile land was 2,788,000 km2 (689 million acres), and it was equipped with irrigation infrastructure worldwide. Roughly 68% of this area is in Asia, 17% in the Americas, 9% in Europe, 5% in Africa and 1% in Oceania. The largest contiguous areas of high irrigation density are found in Northern and Eastern India and Pakistan along the Ganges and Indus rivers; in the Hai He, Huang He and Yangtze basins in China; along the Nile river in Egypt and Sudan; and in the Mississippi-Missouri river basin, the Southern Great Plains, and in parts of California in the United States. Smaller irrigation areas are spread across almost all populated parts of the world.[2] By 2012, the area of irrigated land had increased to an estimated total of 3,242,917 km2 (801 million acres), which is nearly the size of India.[3] The irrigation of 20% of farming land accounts for the production of 40% of food production.[4][5]\n\n### Global Overview\nThe scale of irrigation increased dramatically over the 20th century. In 1800, 8 million hectares globally were irrigated, in 1950, 94 million hectares, and in 1990, 235 million hectares. By 1990, 30% of the global food production came from irrigated land.[6] Irrigation techniques across the globe include canals redirecting surface water,[7][8] groundwater pumping, and diverting water from dams. National governments lead most irrigation schemes within their borders, but private investors[9] and other nations,[8] especially the United States,[10] China,[11] and European countries like the United Kingdom,[12] also fund and organize some schemes within other nations. By 2021 the global land area equipped for irrigation reached 352 million ha, an increase of 22% from the 289 million ha of 2000 and more than twice the 1960s land area equipped for irrigation. The vast majority is located in Asia (70%), where irrigation was a key component of the green revolution; the Americas account for 16% and Europe for 8% of the world total. India (76 million ha) and China (75 million ha) have the largest equipped area for irrigation, far ahead of the United States of America (27 million ha). China and India also have the largest net gains in equipped area between 2000 and 2020 (+21 million ha for China and +15 million ha for India). All the regions saw increases in the area equipped for irrigation, with Africa growing the fastest (+29%), followed by Asia (+25%), Oceania (+24%), the Americas (+19%) and Europe (+2%).[13] Irrigation enables the production of more crops, especially commodity crops in areas which otherwise could not support them. Countries frequently invested in irrigation to increase wheat, rice, or cotton production, often with the overarching goal of increasing self-sufficiency.[12]\n\n### Groundwater And Surface Water\nIrrigation water can come from groundwater (extracted from springs or by using wells), from surface water (withdrawn from rivers, lakes or reservoirs) or from non-conventional sources like treated wastewater, desalinated water, drainage water, or fog collection. While floodwater harvesting belongs to the accepted irrigation methods, rainwater harvesting is usually not considered as a form of irrigation. Rainwater harvesting is the collection of runoff water from roofs or unused land and the concentration of this.\n\n### Treated Or Untreated Wastewater\nIrrigation with recycled municipal wastewater can also serve to fertilize plants if it contains nutrients, such as nitrogen, phosphorus and potassium. There are benefits of using recycled water for irrigation, including the lower cost compared to some other sources and consistency of supply regardless of season, climatic conditions and associated water restrictions. When reclaimed water is used for irrigation in agriculture, the nutrient (nitrogen and phosphorus) content of the treated wastewater has the benefit of acting as a fertilizer.[15] This can make the reuse of excreta contained in sewage attractive.[16] In developing countries, agriculture is increasingly using untreated municipal wastewater for irrigation – often in an unsafe manner. Cities provide lucrative markets for fresh produce, so they are attractive to farmers. However, because agriculture has to compete for increasingly scarce water resources with industry and municipal users, there is often no alternative for farmers but to use water polluted with urban waste directly to water their crops. There can be significant health hazards related to using untreated wastewater in agriculture. Municipal wastewater can contain a mixture of chemical and biological pollutants. In low-income countries, there are often high levels of pathogens from excreta. In emerging nations, where industrial development is outpacing environmental regulation, there are increasing risks from inorganic and organic chemicals. The World Health Organization developed guidelines for safe use of wastewater in 2006,[16] advocating a 'multiple-barrier' approach wastewater use, for example by encouraging farmers to adopt various risk-reducing behaviors. These include ceasing irrigation a few days before harvesting to allow pathogens to die off in the sunlight; applying water carefully so it does not contaminate leaves likely to be eaten raw; cleaning vegetables with disinfectant; or allowing fecal sludge used in farming to dry before being used as a human manure.[15]\n\n### Other Sources\nIrrigation water can also come from non-conventional sources like treated wastewater,[20] desalinated water, drainage water, or fog collection. In countries where humid air sweeps through at night, water can be obtained by condensation onto cold surfaces. This is practiced in the vineyards at Lanzarote using stones to condense water. Fog collectors are also made of canvas or foil sheets. Using condensate from air conditioning units as a water source is also becoming more popular in large urban areas. As of November 2019[update] a Glasgow-based startup has helped a farmer in Scotland to establish edible saltmarsh crops irrigated with sea water. An acre of previously marginal land has been put under cultivation to grow samphire, sea blite, and sea aster; these plants yield a higher profit than potatoes. The land is flood irrigated twice a day to simulate tidal flooding; the water is pumped from the sea using wind power. Additional benefits are soil remediation and carbon sequestration.[21][22]\n\n### Competition For Water Resources\nUntil the 1960s, there were fewer than half the number of people on the planet as of 2024. People were not as wealthy as today, consumed fewer calories and ate less meat, so less water was needed to produce their food. They required a third of the volume of water humans presently take from rivers. Today, the competition for water resources is much more intense, because there are now more than seven billion people on the planet, increasing the likelihood of overconsumption of food produced by water-thirsty animal agriculture and intensive farming practices. This creates increasing competition for water from industry, urbanisation and biofuel crops. Farmers will have to strive to increase productivity to meet growing demands for food, while industry and cities find ways to use water more efficiently.[23] Successful agriculture is dependent upon farmers having sufficient access to water. However, water scarcity is already a critical constraint to farming in many parts of the world.\n\n### Irrigation Methods\nThere are several methods of irrigation. They vary in how the water is supplied to the plants. The goal is to apply the water to the plants as uniformly as possible, so that each plant has the amount of water it needs, neither too much nor too little. Irrigation can also be understood whether it is supplementary to rainfall, as happens in many parts of the world, or whether it is 'full irrigation, whereby crops rarely depend on any contribution from rainfall. Full irrigation is less common and only happens in arid land",
+    "region": "India",
+    "language": "en",
+    "source": "Wikipedia - Agricultural Knowledge",
+    "tags": [
+      "wikipedia",
+      "irrigation"
+    ],
+    "created_at": "2025-12-17T19:16:29.978717",
+    "condition": "Irrigation",
+    "risk": "See content",
+    "advice": "### Extent\nIn 2000, the total fertile land was 2,788,000 km2 (689 million acres), and it was equipped with irrigation infrastructure worldwide. Roughly 68% of this area is in Asia, 17% in the Americas, 9% in Europe, 5% in Africa and 1% in Oceania. The largest contiguous areas of high irrigation density are found in Northern and Eastern India and Pakistan along the Ganges and Indus rivers; in the Hai He, Huang He and Yangtze basins in China; along the Nile river in Egypt and Sudan; and in the Mis"
+  },
+  {
+    "id": "final_wiki_weat_0013",
+    "intent": "weather_advisory",
+    "title": "Drip Irrigation",
+    "content": "### Ancient China\nPrimitive drip irrigation has been used since ancient times. Fan Shengzhi shu, written in China during the first century BCE, describes the use of buried, unglazed clay pots filled with water, sometimes referred to as Ollas, as a means of irrigation.[2][3]\n\n### Modern Development\nModern drip irrigation began its development in Germany in 1860 when researchers began experimenting with subsurface irrigation using clay pipe to create combination irrigation and drainage systems.[4] The research was later expanded in the 1920s to include the application of perforated pipe systems.[5] The usage of plastic to hold and distribute water in drip irrigation was later developed in Australia by Hannis Thill.[5] Usage of a plastic emitter in drip irrigation was developed in Israel by Simcha Blass and his son Yeshayahu.[6] Instead of releasing water through tiny holes easily blocked by tiny particles, water was released through larger and longer passageways by using friction to slow water inside a plastic emitter. The first experimental system of this type was established in 1959 by Blass, who partnered later in 1964 with Kibbutz Hatzerim to create an irrigation company called Netafim. Together, they developed and patented the first practical surface drip irrigation emitter.[4][5] Modern drip irrigation was invented in Israel in the 1960s. Such irrigation also improved the efficiency of fertilizer use, as well as water.[1] The introduction of this technology was revolutionary according to The Times of Israel, and could save 70% of water usage in the growth of rice.[7] Goldberg and Shmueli (1970)[8] developed a significant improvement: \"in the Arava desert in southern Israel, [Shmueli] demonstrated that a trickle-irrigation system installed on the soil surface worked exceptionally well in producing vegetable crops, even with saline or salt water (Elfving, 1989). The system...was responsible for the greening of formerly unproductive environment\".[9] Replacing sub-surface system with on surface system solved the disadvantage of clogging the subsurface system. Their improvement prevailed: \"Drip irrigation is presently the most efficient means to apply water to crops (Pathak et al. 2009; Goyal 2012)... There are two variations of the technology: surface, and subsurface. The most common is surface drip irrigation, first developed in Israel (Goldberg and Shmueli 1970)... Due to the need to improve irrigation efficiency, as a measure toward sustainable use of water resources, there is wide interest in drip irrigation (Scanlon et al. 2012; Steward et al. 2013; Schaible and Aillery 2017). This  is highlighted by numerous studies to evaluate its performance for the production of several crops.\"[10] Netafim developed technology to specifically water rice. Rice paddies produce 10% of global methane emissions, the equivalent of 400 million cars. This technology was first introduced in Italy, Turkey, and India.[7] Agritech firm N-Drip developed smart drip irrigation for rice paddies. In the TOI article it was reported that N-Drip system led to yield increases of up to 33%, fertilizer reduction of 50%, a drop in greenhouse gases like carbon and methane from 50% to 85%, as well as water savings of 50%.[11] In the United States, the first drip tape, called Dew Hose, was developed by Richard Chapin and Jaime Leal-Diaz of Chapin Watermatics in the early 1960s.[12][13] The evolution of drip tape which made large-scale adoption and use possible was the introduction of T-Tape in 1987 by Plastro Irrigation, that had the first slit outlet and a laminar flow track which later evolved into a turbulent flow regulating flow track. Chapin Watermatics was acquired by Jain Irrigation in 2006 and is housed under its US subsidiary Jain Irrigation Inc, USA.[14][15] First introduced in California in the late 1960s, only 5% of irrigated land used this system by 1988. However, by 2010, 40% of irrigated land in California used this system.[16] A trickle ring is a circular device which evenly distributes water around the base of a tree or shrub.  Connected to a water supply by a garden hose or tubing adapter fitting, trickle rings may be integrated into an irrigation network which waters many plants at the same time.  By regulating the flow of water through the trickle ring, soil can be saturated at a rate which conserves water by minimizing wasteful surface runoff and losses due to evaporation.[citation needed]\n\n### Significance\nModern drip irrigation has arguably become the world's most valued innovation in agriculture since the invention in the 1930s of the impact sprinkler, which offered the first practical alternative to surface irrigation.\n\n### Current Developments\nCareful study of all the relevant factors like land topography, soil, water, crop and agro-climatic conditions are needed to determine the most suitable drip irrigation system and components to be used in a specific installation.\n\n### Micro-Spray Heads\nDrip irrigation may also use devices called micro-spray heads, which spray water in a small area, instead of dripping emitters. These are generally used on tree and vine crops with wider root zones.\n\n### Subsurface Drip Irrigation\nSubsurface drip irrigation (SDI) uses permanently or temporarily buried dripperline or drip tape located at or below the plant roots. It is becoming popular for row crop irrigation, especially in areas where water supplies are limited, or recycled water is used for irrigation.\n\n### Global Reach And Market Leaders\nAs of 2012, China and India were the fastest expanding countries in the field of drip- or other micro-irrigation, while worldwide well over ten million hectares used these technologies.[17] Still, this amounted to less than 4 percent of the world's irrigated land.[17] That year, Israel's Netafim was the global market leader (a position it maintained in 2018[18]), with India's Jain Irrigation being the second-biggest micro-irrigation company.[17] In 2017 Rivulis bought Eurodrip and became the world's second largest irrigation systems manufacturer.[19]\n\n### Components And Operation\nComponents used in drip irrigation (listed in order from water source) include: In drip irrigation systems, pump and valves may be manually or automatically operated by a controller. Most large drip irrigation systems employ some type of filter to prevent clogging of the small emitter flow path by small waterborne particles. New technologies are now[when?] being offered that minimize clogging.  Some residential systems are installed without additional filters since potable water is already filtered at the water treatment plant. Virtually all drip irrigation equipment manufacturers recommend that filters be employed and generally will not honor warranties unless this is done.  Last line filters just before the final delivery pipe are strongly recommended in addition to any other filtration system due to fine particle settlement and accidental insertion of particles in the intermediate lines. Drip and subsurface drip irrigation is used almost exclusively when using recycled municipal wastewater.  Regulations typically do not permit spraying water through the air that has not been fully treated to potable water standards. Because of the way the water is applied in a drip system, traditional surface applications of timed-release fertilizer are sometimes ineffective, so drip systems often mix liquid fertilizer with the irrigation water. This is called fertigation; fertigation and chemigation (application of pesticides and other chemicals to periodically clean out the system, such as chlorine or sulfuric acid) use chemical injectors such as diaphragm pumps, piston pumps, or aspirators.  The chemicals may be added constantly whenever the system is irrigating or at intervals.  Fertilizer savings of up to 95% are being reported from recent university field tests using drip fertigation and slow water delivery as compared to timed-release and irrigation by micro spray h",
+    "region": "India",
+    "language": "en",
+    "source": "Wikipedia - Agricultural Knowledge",
+    "tags": [
+      "wikipedia",
+      "drip_irrigation"
+    ],
+    "created_at": "2025-12-17T19:16:29.978738",
+    "condition": "Drip Irrigation",
+    "risk": "See content",
+    "advice": "### Ancient China\nPrimitive drip irrigation has been used since ancient times. Fan Shengzhi shu, written in China during the first century BCE, describes the use of buried, unglazed clay pots filled with water, sometimes referred to as Ollas, as a means of irrigation.[2][3]\n\n### Modern Development\nModern drip irrigation began its development in Germany in 1860 when researchers began experimenting with subsurface irrigation using clay pipe to create combination irrigation and drainage systems.[4]"
+  },
+  {
+    "id": "final_wiki_weat_0014",
+    "intent": "weather_advisory",
+    "title": "Surface Irrigation",
+    "content": "### Process\nThe process of surface irrigation can be described using four phases. As water is applied to the top end of the field it will flow or advance over the field length. The advance phase refers to that length of time as water is applied to the top end of the field and flows or advances over the field length. After the water reaches the end of the field it will either run-off or start to pond. The period of time between the end of the advance phase and the shut-off of the inflow is termed the wetting, ponding or storage phase. As the inflow ceases the water will continue to runoff and infiltrate until the entire field is drained. The depletion phase is that short period of time after cut-off when the length of the field is still submerged. The recession phase describes the time period while the water front is retreating towards the downstream end of the field. The depth of water applied to any point in the field is a function of the opportunity time, the length of time for which water is present on the soil surface.\n\n### Basin Irrigation\nLevel basin irrigation has historically been used in small areas having level surfaces that are surrounded by earth banks. The water is applied rapidly to the entire basin and is allowed to infiltrate. In traditional basins no water is permitted to drain from the field once it is irrigated. Basin irrigation is favored in soils with relatively low infiltration rates.[1] This is also a method of surface irrigation. Fields are typically set up to follow the natural contours of the land but the introduction of laser levelling and land grading has permitted the construction of large rectangular basins that are more appropriate for mechanised broadacre cropping. Drainback level basins (DBLBs) or contour basins are a variant of basin irrigation where the field is divided into a number of terraced rectangular bays which are graded level or have no significant slope. Water is applied to the first bay (usually the highest in elevation) and then the desired depth of applied water is permitted to drain back off that bay and flow to the next bay which is at a lower elevation than the first. Each bay is irrigated in turn using a combination of drainage water from the previous bay and continuing inflow from the supply channel. Successful operation of these systems is reliant on a sufficient elevation drop between successive bays. These systems are commonly used in Australia where rice and wheat are grown in rotation.[2]\n\n### Furrow Irrigation\nFurrow irrigation is conducted by creating small parallel channels along the length of the field parallel to the direction of its predominant slope. Water is applied to the top end of each furrow and flows down the field under the influence of gravity. Water may be supplied using gated pipe, siphon and head ditch, or bankless systems. The speed of water movement is determined by many factors such as slope, surface roughness, and furrow shape, but most importantly by the inflow rate and soil infiltration rate. The spacing between adjacent furrows is governed by the crop species, common spacings typically range from 0.75 to 2 m (2.5 to 6.6 ft). The crop is planted on the ridge between furrows which may contain a single row of plants or several rows in the case of a bed-type system. Furrows may range anywhere from less than 100 to 2,000 m (0.062 to 1.243 mi) long depending on the soil type, location, and crop type. Shorter furrows are commonly associated with higher uniformity of application but result in increasing potential for runoff losses. Furrow irrigation is particularly suited to broadacre row crops such as cotton, maize, and sugar cane. It is also practiced in various horticultural industries such as citrus, stone fruit, and tomatoes. The water can take a considerable period of time to reach the other end, meaning water has been infiltrating for a longer period of time at the top end of the field. This results in poor uniformity with high application at the top end with lower application at the bottom end. In most cases the performance of furrow irrigation can be improved through increasing the speed at which water moves along the field (the advance rate). This can be achieved through increasing flow rates or through the practice of surge irrigation. Increasing the advance rate not only improves the uniformity but also reduces the total volume of water required to complete the irrigation. This type of irrigation is relatively new with research and development into its practice and modelling started in early 1980s.[3] Surge Irrigation is a variant of furrow irrigation where the water supply is pulsed on and off in planned time periods (e.g. on for 1 hour off for 1½ hour). The wetting and drying cycles reduce infiltration rates resulting in faster advance rates and higher uniformity[4] than continuous flow. The reduction in infiltration is a result of surface consolidation, filling of cracks and micro pores and the disintegration of soil particles during rapid wetting and consequent surface sealing during each drying phase.[5] On those soils where surging is effective it has been reported to allow completion of the irrigation with a lower overall water usage and therefore higher efficiency and potentially offer the ability to practice deficit irrigation.[6] The effectiveness of surge irrigation is soil type dependent; for example, many clay soils experience a rapid sealing behaviour under continuous flow and therefore surge irrigation offers little benefit.[1]\n\n### Bay/Border Strip Irrigation\nBorder strip, otherwise known as border check or bay irrigation could be considered as a hybrid of level basin and furrow irrigation. The field is divided into a number of bays or strips, each bay is separated by raised earth check banks (borders). The bays are typically longer and narrower compared to basin irrigation and are orientated to align lengthwise with the slope of the field. Typical bay dimensions are 10 to 70 m (10 to 80 yd) wide and 100 to 700 m (110 to 770 yd) long. The water is applied to the top end of the bay, which is usually constructed to facilitate free-flowing conditions at the downstream end. One common use of this technique includes the irrigation of pasture for dairy production.\n\n### Spate Irrigation\nSpate irrigation (from the English word spate, meaning: a. a flood or inundation. b. a river flooding its banks) uses seasonal floods of rivers, streams, ponds and lakes to fill water storage basins. It is an ancient method of irrigation in arid and semi-arid climates in the Middle East, North Africa, West Asia, East Africa and parts of Latin America.[7] In spate irrigation, water is diverted from normally dry river beds when the river is in spate. The flood water is then diverted to the fields. This may be done by free intakes, by diversion spurs or by bunds, that are built across the river bed. The flood water, typically lasting a few hours or a few days, is channelled through a network of primary, secondary and sometimes tertiary flood channels. Command areas may range from anything between a few hectares to over 25,000 hectares (62,000 acres). Spate irrigation systems require huge management efforts to control and optimize the flow of water. Because fast-moving water is capable of moving very large amounts of sediment, the heights of river banks and the composition of their beds can change rapidly. Diverting the flow of a powerful force which is capable of moving rocks, soils and other materials used to divert the path of the water can prove difficult.[8]\n\n### Issues Associated With Surface Irrigation\nWhile surface irrigation can be practiced effectively using the correct management under the right conditions, it is often associated with a number of issues undermining productivity and environmental sustainability:[9] The aim of modern surface irrigation management is to minimize the risk of these potential adverse impacts.",
+    "region": "India",
+    "language": "en",
+    "source": "Wikipedia - Agricultural Knowledge",
+    "tags": [
+      "wikipedia",
+      "surface_irrigation"
+    ],
+    "created_at": "2025-12-17T19:16:29.978833",
+    "condition": "Surface Irrigation",
+    "risk": "See content",
+    "advice": "### Process\nThe process of surface irrigation can be described using four phases. As water is applied to the top end of the field it will flow or advance over the field length. The advance phase refers to that length of time as water is applied to the top end of the field and flows or advances over the field length. After the water reaches the end of the field it will either run-off or start to pond. The period of time between the end of the advance phase and the shut-off of the inflow is termed"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "name": "krishimitra",
+  "version": "2.0.0",
+  "description": "AI-Powered Agriculture Chatbot for Indian Farmers - Multilingual support with Weather, Market Prices, Disease Detection",
+  "type": "module",
+  "scripts": {
+    "predev": "node -e \"require('fs').copyFileSync('../../.env', '.env')\"",
+    "dev": "vite",
+    "prebuild": "node -e \"require('fs').copyFileSync('../../.env', '.env')\"",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "agriculture",
+    "chatbot",
+    "ai",
+    "farming",
+    "india",
+    "multilingual",
+    "weather",
+    "market-prices"
+  ],
+  "author": "KrishiMitra Team",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "chart.js": "^4.5.1",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.2",
+    "vite": "^5.4.21"
+  }
+}

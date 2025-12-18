@@ -1,0 +1,1338 @@
+[
+  {
+    "id": "hist_to_show_relative_worth_of_a_ne_161c9178",
+    "domain": "historic_practices",
+    "practice_name": "result demonstration",
+    "question": "To show relative worth of a new practice over an old one, the extension method best suited is?",
+    "answer": "result demonstration",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: result demonstration",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: To show relative worth of a new practice over an old one, the extension method best suited is? Answer: result demonstration. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_find_the_meaning_of_the_given__033d7fad",
+    "domain": "historic_practices",
+    "practice_name": "Meet by chance",
+    "question": "Find the meaning of the given bold phrasal verb",
+    "answer": "Meet by chance",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Meet by chance",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: Find the meaning of the given bold phrasal verb Answer: Meet by chance. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_find_the_meaning_of_the_given__f2410314",
+    "domain": "historic_practices",
+    "practice_name": "Depend",
+    "question": "Find the meaning of the given bold phrasal verb",
+    "answer": "Depend",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Depend",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: Find the meaning of the given bold phrasal verb Answer: Depend. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_fever__loss_of_appetite__suspe_6babc02a",
+    "domain": "historic_practices",
+    "practice_name": "Black quarter (black-leg)",
+    "question": "Fever, Loss of appetite, suspended rumination, lameness in affected leg, swelling is hot & painful in early stages whereas cold and painless inter, recumbency (prostration) followed by death within 12-48 hrs. These all are the symptoms of________.",
+    "answer": "Black quarter (black-leg)",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Black quarter (black-leg)",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Veterinary Sciences",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Veterinary Sciences: Fever, Loss of appetite, suspended rumination, lameness in affected leg, swelling is hot & painful in early stages whereas cold and painless inter, recumbency (prostration) followed by death within 12-48 hrs. These all are the symptoms of________. Answer: Black quarter (black-leg). This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_in_the_traditional_method_of_d_106f138a",
+    "domain": "historic_practices",
+    "practice_name": "curd",
+    "question": "In the traditional method of dahi preparation, milk is boiled and then allowed to cool at about 42°C and then old…… is added.?",
+    "answer": "curd",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: curd",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Dairy & Poultry Science",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Dairy & Poultry Science: In the traditional method of dahi preparation, milk is boiled and then allowed to cool at about 42°C and then old…… is added.? Answer: curd. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_which_of_the_following_is_the__4989870e",
+    "domain": "historic_practices",
+    "practice_name": "Free Range system",
+    "question": "Which of the following is the oldest method for poultry keeping?",
+    "answer": "Free Range system",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Free Range system",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Animal Sciences",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Animal Sciences: Which of the following is the oldest method for poultry keeping? Answer: Free Range system. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_which_of_the_following_part_of_0e571e4c",
+    "domain": "historic_practices",
+    "practice_name": "Omasum",
+    "question": "Which of the following part of ruminant stomach contains 100 folds from inside called as laminae?",
+    "answer": "Omasum",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Omasum",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Animal Sciences",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Animal Sciences: Which of the following part of ruminant stomach contains 100 folds from inside called as laminae? Answer: Omasum. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_who_among_sunita__naina__veena_aa97a86c",
+    "domain": "historic_practices",
+    "practice_name": "Only I and II",
+    "question": "Who among Sunita, Naina, Veena and Meena is the youngest? I) Veena is younger than Meena but older than Sunita and Naina. II) Meena is older than Naina and Veena but not older than Sunita III) Sunita is older than Naina but not older than Veena.",
+    "answer": "Only I and II",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Only I and II",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Who among Sunita, Naina, Veena and Meena is the youngest? I) Veena is younger than Meena but older than Sunita and Naina. II) Meena is older than Naina and Veena but not older than Sunita III) Sunita is older than Naina but not older than Veena. Answer: Only I and II. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_in_the_sentence_given_below__f_e1778bd4",
+    "domain": "historic_practices",
+    "practice_name": "2-3",
+    "question": "In the sentence given below, four words have been underlined, which may or may not be correctly placed (grammatically or contextually). Rearrange the words to make the sentence grammatically correct. His proclivity (1) for collecting rare, curiosities (2) antiques led to a house full of unweidly (3), each with its own unique (4) history and charm",
+    "answer": "2-3",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 2-3",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: In the sentence given below, four words have been underlined, which may or may not be correctly placed (grammatically or contextually). Rearrange the words to make the sentence grammatically correct. His proclivity (1) for collecting rare, curiosities (2) antiques led to a house full of unweidly (3), each with its own unique (4) history and charm Answer: 2-3. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_in_the_following_question__fou_a9a2c076",
+    "domain": "historic_practices",
+    "practice_name": "Traditional Practice",
+    "question": "In the following question, four sentences have been mentioned. One of the sentences may contain a grammatical or contextual error. Choose the sentence which contains the error. (a) She chose to abjure the toxic workplace culture, deciding to move on and pursue a new career path rather than continuing to deride her colleagues' efforts (b) Despite the initial success of the innovative technology, some traditionalists continued to decry its use, while others embraced it, spurning the old ways for the sake of progress (c) What started as an acrimonious disagreement between the neighbors over the property line eventually turned into an amicable resolution with the help of a mediator, fostering a more peaceful coexistence (d) Her flippancy during the serious discussion about the environmental crisis irritated her colleagues, as they felt the issue deserved more respect and attention (e) No error",
+    "answer": "She chose to abjure the toxic workplace culture, deciding to move on and pursue a new career path rather than continuing to deride her colleagues' efforts",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: She chose to abjure the toxic workplace culture, deciding to move on and pursue a new career path rather than continuing to deride her colleagues' efforts",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: In the following question, four sentences have been mentioned. One of the sentences may contain a grammatical or contextual error. Choose the sentence which contains the error. (a) She chose to abjure the toxic workplace culture, deciding to move on and pursue a new career path rather than continuing to deride her colleagues' efforts (b) Despite the initial success of the innovative technology, some traditionalists continued to decry its use, while others embraced it, spurning the old ways for the sake of progress (c) What started as an acrimonious disagreement between the neighbors over the property line eventually turned into an amicable resolution with the help of a mediator, fostering a more peaceful coexistence (d) Her flippancy during the serious discussion about the environmental crisis irritated her colleagues, as they felt the issue deserved more respect and attention (e) No error Answer: She chose to abjure the toxic workplace culture, deciding to move on and pursue a new career path rather than continuing to deride her colleagues' efforts. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_how_does_star_bursting_differ__ba7af5cf",
+    "domain": "historic_practices",
+    "practice_name": "It concentrates on question generation.",
+    "question": "How does star bursting differ from traditional brainstorming?",
+    "answer": "It concentrates on question generation.",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: It concentrates on question generation.",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: How does star bursting differ from traditional brainstorming? Answer: It concentrates on question generation.. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_golden_rice_will_help_in_77e3ebe3",
+    "domain": "historic_practices",
+    "practice_name": "Alleviation of Vitamin 'A' deficiency",
+    "question": "Golden rice will help in",
+    "answer": "Alleviation of Vitamin 'A' deficiency",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Alleviation of Vitamin 'A' deficiency",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Golden rice will help in Answer: Alleviation of Vitamin 'A' deficiency. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_a_father_is_three_times_as_old_2c40801b",
+    "domain": "historic_practices",
+    "practice_name": "45 years",
+    "question": "A father is three times as old as his son. After fifteen years the father will be twice as old as his son's age at that time. Hence the father's present age is",
+    "answer": "45 years",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 45 years",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: A father is three times as old as his son. After fifteen years the father will be twice as old as his son's age at that time. Hence the father's present age is Answer: 45 years. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_rahul_last_year_was_thrice_as__3be301aa",
+    "domain": "historic_practices",
+    "practice_name": "12 years",
+    "question": "Rahul last year was thrice as old as his sister was and next year he will be twice as old as his sister will. After 4 years Rahul will be",
+    "answer": "12 years",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 12 years",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Rahul last year was thrice as old as his sister was and next year he will be twice as old as his sister will. After 4 years Rahul will be Answer: 12 years. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_a_garrison_has_provision_for_6_050c638b",
+    "domain": "historic_practices",
+    "practice_name": "50 days",
+    "question": "A garrison has provision for 60 soldiers for 20 days. How long will that provision last for 24 soldiers?",
+    "answer": "50 days",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 50 days",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: A garrison has provision for 60 soldiers for 20 days. How long will that provision last for 24 soldiers? Answer: 50 days. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_peter_bought_an_item_at_20__di_8c8804c4",
+    "domain": "historic_practices",
+    "practice_name": "12",
+    "question": "Peter bought an item at 20% discount on its original price. He sold it with 40% increase on the price he bought it. The new sale price is by what percent more than the original price?",
+    "answer": "12",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 12",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Peter bought an item at 20% discount on its original price. He sold it with 40% increase on the price he bought it. The new sale price is by what percent more than the original price? Answer: 12. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_a_man_is_32_years_older_than_h_8c11b9ce",
+    "domain": "historic_practices",
+    "practice_name": "64 years",
+    "question": "A man is 32 years older than his son. In two years, his age will be twice the age of his son. The present age of the father is",
+    "answer": "64 years",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 64 years",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: A man is 32 years older than his son. In two years, his age will be twice the age of his son. The present age of the father is Answer: 64 years. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_match_list_i_with_list_ii___a__93b0a0cb",
+    "domain": "historic_practices",
+    "practice_name": "(A) - (III), (B) - (I), (C) - (IV), (D) - (I)",
+    "question": "Match List-I with List-II: (A) Innovator, (B) Early adopter, (C) Early majority, (D) Laggards. List-II: (1) Respectable, (II) Traditional, (III) Venturesome, (IV) Deliberate. Choose the correct answer from the options given below:",
+    "answer": "(A) - (III), (B) - (I), (C) - (IV), (D) - (I)",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: (A) - (III), (B) - (I), (C) - (IV), (D) - (I)",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Match the column",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: Match List-I with List-II: (A) Innovator, (B) Early adopter, (C) Early majority, (D) Laggards. List-II: (1) Respectable, (II) Traditional, (III) Venturesome, (IV) Deliberate. Choose the correct answer from the options given below: Answer: (A) - (III), (B) - (I), (C) - (IV), (D) - (I). This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_revolving_fund__day_nrlm__mord_2f0a4ee3",
+    "domain": "historic_practices",
+    "practice_name": "10000-15000",
+    "question": "Revolving Fund: DAY-NRLM, MoRD, would provide Revolving Fund (RF) support to SHGs in existence for a minimum period of 3/6 months and follow the norms of good SHGs, i.e. they follow 'Panchasutra'- regular meetings, regular savings, regular internal lending, regular recoveries and maintenance of proper books of accounts. Only such SHGs that have not received any RF earlier would be provided with RF, as with minimum corpus, a of __________ and up to a maximum of __________ RF strengthen their institutional financial and management capacity and build a good credit history within the group.",
+    "answer": "10000-15000",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 10000-15000",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: Revolving Fund: DAY-NRLM, MoRD, would provide Revolving Fund (RF) support to SHGs in existence for a minimum period of 3/6 months and follow the norms of good SHGs, i.e. they follow 'Panchasutra'- regular meetings, regular savings, regular internal lending, regular recoveries and maintenance of proper books of accounts. Only such SHGs that have not received any RF earlier would be provided with RF, as with minimum corpus, a of __________ and up to a maximum of __________ RF strengthen their institutional financial and management capacity and build a good credit history within the group. Answer: 10000-15000. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_one_of_the_most_decorated__a___5fa1155f",
+    "domain": "historic_practices",
+    "practice_name": "None of the above",
+    "question": "One of the most decorated (A) sportsmen (B) in the country, and greatest doubles players in the history(C) of tennis, Leander Paes has seen (D) it all during his inspirational career that goes back over three decades.(B)",
+    "answer": "None of the above",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: None of the above",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: One of the most decorated (A) sportsmen (B) in the country, and greatest doubles players in the history(C) of tennis, Leander Paes has seen (D) it all during his inspirational career that goes back over three decades.(B) Answer: None of the above. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_the_traditional_methods_of_pro_def02d9e",
+    "domain": "historic_practices",
+    "practice_name": "Curing",
+    "question": "The traditional methods of processing fish by salting, drying, smoking, pickling etc. are collectively known as",
+    "answer": "Curing",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Curing",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Fisheries and Aquaculture",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Fisheries and Aquaculture: The traditional methods of processing fish by salting, drying, smoking, pickling etc. are collectively known as Answer: Curing. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_almost_all_states_except_which_b4fb19b0",
+    "domain": "historic_practices",
+    "practice_name": "(B) and (C) only.",
+    "question": "Almost all states except which of the following(s) enacted laws for consolidation of holdings? (A). Punjab (B). Kerala (C). Tamilnadu (D). Uttar Pradesh Choose the correct answer from the options given below:",
+    "answer": "(B) and (C) only.",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: (B) and (C) only.",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Almost all states except which of the following(s) enacted laws for consolidation of holdings? (A). Punjab (B). Kerala (C). Tamilnadu (D). Uttar Pradesh Choose the correct answer from the options given below: Answer: (B) and (C) only.. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_given_below_are_two_statements_3ded03f8",
+    "domain": "historic_practices",
+    "practice_name": "(A) is true but (R) is false.",
+    "question": "Given below are two statements, one is labelled as Assertion (A) and other one labelled as Reason (R). Assertion (A) : According to Keynes, an individual's aggregate demand to hold money is composed of Transaction Demand, Precautionary Demand and Speculative Demand. Reason (R) : The Speculative Demand for money is a direct and positive function of the level of money income. In light of the above statements, choose the correct answer from the options given below.",
+    "answer": "(A) is true but (R) is false.",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: (A) is true but (R) is false.",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Assertion or Reasoning",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Given below are two statements, one is labelled as Assertion (A) and other one labelled as Reason (R). Assertion (A) : According to Keynes, an individual's aggregate demand to hold money is composed of Transaction Demand, Precautionary Demand and Speculative Demand. Reason (R) : The Speculative Demand for money is a direct and positive function of the level of money income. In light of the above statements, choose the correct answer from the options given below. Answer: (A) is true but (R) is false.. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_arrange_the_following_institut_00792198",
+    "domain": "historic_practices",
+    "practice_name": "(C), (D), (B), (A).",
+    "question": "Arrange the following institutions as per descending order of year of establishment, that is, from latest (present) to oldest (past): (A). NCUI (B). NAFED (C). NDDB (D). NCDC Choose the correct answer from the options given below:",
+    "answer": "(C), (D), (B), (A).",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: (C), (D), (B), (A).",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Arrange the following institutions as per descending order of year of establishment, that is, from latest (present) to oldest (past): (A). NCUI (B). NAFED (C). NDDB (D). NCDC Choose the correct answer from the options given below: Answer: (C), (D), (B), (A).. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_given_below_are_two_statements_48cabeb0",
+    "domain": "historic_practices",
+    "practice_name": "Traditional Practice",
+    "question": "Given below are two statements: Statement (I): The term \" Operational holding\" refers to the gross cropped area cultivated by the farmer. Statement (II): The objective of subsistence farming is to produce for both home and market. In light of the above statements, choose the most appropriate answer from the options given below.",
+    "answer": "Both Statement (1) and Statement (II) are incorrect.",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Both Statement (1) and Statement (II) are incorrect.",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Assertion or Reasoning",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Given below are two statements: Statement (I): The term \" Operational holding\" refers to the gross cropped area cultivated by the farmer. Statement (II): The objective of subsistence farming is to produce for both home and market. In light of the above statements, choose the most appropriate answer from the options given below. Answer: Both Statement (1) and Statement (II) are incorrect.. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_match_list_i_with_list_ii___ta_617d9cf2",
+    "domain": "historic_practices",
+    "practice_name": "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)",
+    "question": "Match List-I with List-II <@Table>List-l,List-II\n(Extension teaching methods),(Descriptions of the method)\n(A). Group Discussion,(1). Face-to-face contact by the extension agent with the farmers at their home or farm for a specific purpose related to extension work.\n(B). Method Demonstration,(II). An extension method which is conducted by a participating farmer on his/her farm or home under the guidance of an extension worker to prove by the evidence that the practice being demonstrated is superior to the one in existence.\n(C). Farm and Home Visit,\"(III). A planned and purposive interchange of ideas and feelings among a small group of individuals under the supervision of a discussion leader, aimed at solving a common problem or planning a course of action.\"\n(D). Result Demonstration,(IV). An extension method in which an extension agent or a trained leader or a specialist shows how to carry out an entirely new practice or an old practice in a better way to a group.</@Table> \nChoose the correct answer from the options given below:",
+    "answer": "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: (A) - (III), (B) - (IV), (C) - (I), (D) - (II)",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Match the column",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Match List-I with List-II <@Table>List-l,List-II\n(Extension teaching methods),(Descriptions of the method)\n(A). Group Discussion,(1). Face-to-face contact by the extension agent with the farmers at their home or farm for a specific purpose related to extension work.\n(B). Method Demonstration,(II). An extension method which is conducted by a participating farmer on his/her farm or home under the guidance of an extension worker to prove by the evidence that the practice being demonstrated is superior to the one in existence.\n(C). Farm and Home Visit,\"(III). A planned and purposive interchange of ideas and feelings among a small group of individuals under the supervision of a discussion leader, aimed at solving a common problem or planning a course of action.\"\n(D). Result Demonstration,(IV). An extension method in which an extension agent or a trained leader or a specialist shows how to carry out an entirely new practice or an old practice in a better way to a group.</@Table> \nChoose the correct answer from the options given below: Answer: (A) - (III), (B) - (IV), (C) - (I), (D) - (II). This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_given_below_are_two_statements_0e131336",
+    "domain": "historic_practices",
+    "practice_name": "Traditional Practice",
+    "question": "Given below are two statements, one is labelled as Assertion (A) and other one labelled as Reason (R), Assertion (A) : Traditional leaders in rural areas uphold social and religious values through their inherited status and roles. Reason (R) : Emergent leaders in villages primarily gain influence through their wealth and power. In light of the above statements, choose the most appropriate answer from the options given below .",
+    "answer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "Assertion or Reasoning",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Given below are two statements, one is labelled as Assertion (A) and other one labelled as Reason (R), Assertion (A) : Traditional leaders in rural areas uphold social and religious values through their inherited status and roles. Reason (R) : Emergent leaders in villages primarily gain influence through their wealth and power. In light of the above statements, choose the most appropriate answer from the options given below . Answer: Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_a_method_of_developing_and_mai_28990cc6",
+    "domain": "historic_practices",
+    "practice_name": "Inventory control",
+    "question": "A method of developing and maintaining an adequate stock of materials or products to meet a stakeholder's demand. The stock decision regarding the raw materials and finished goods, have a great influence on supply chain costs and the level of service provided is recognized as",
+    "answer": "Inventory control",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Inventory control",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: A method of developing and maintaining an adequate stock of materials or products to meet a stakeholder's demand. The stock decision regarding the raw materials and finished goods, have a great influence on supply chain costs and the level of service provided is recognized as Answer: Inventory control. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_under_mnrega__what_is_the_mini_35a170f8",
+    "domain": "historic_practices",
+    "practice_name": "120",
+    "question": "Under MNREGA, what is the minimum number of days of employment guaranteed per household per year?",
+    "answer": "120",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 120",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Under MNREGA, what is the minimum number of days of employment guaranteed per household per year? Answer: 120. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_match_list_i_with_list_ii___ta_6fb0481a",
+    "domain": "historic_practices",
+    "practice_name": "A - II , B - I , C - IV, D - V",
+    "question": "Match List I with List II <@Table>,\nList |,List II\nAge Group,Motor milestones achieved\n,A. 3 weeks-4 months ||. Rolls from back to side\nB. 2-7 months,|II. When held upright holds head erect and steady\nC. 5-12 months,III. Ties shoe laces\nD. 12-23 months,IV. Pulls to standing position\n,</@Table> \nV. Walks upstairs with help Choose the correct answer from the options given below:",
+    "answer": "A - II , B - I , C - IV, D - V",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: A - II , B - I , C - IV, D - V",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "Match the column",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: Match List I with List II <@Table>,\nList |,List II\nAge Group,Motor milestones achieved\n,A. 3 weeks-4 months ||. Rolls from back to side\nB. 2-7 months,|II. When held upright holds head erect and steady\nC. 5-12 months,III. Ties shoe laces\nD. 12-23 months,IV. Pulls to standing position\n,</@Table> \nV. Walks upstairs with help Choose the correct answer from the options given below: Answer: A - II , B - I , C - IV, D - V. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_given_below_are_two_statements_59437b42",
+    "domain": "historic_practices",
+    "practice_name": "A is false but R is true",
+    "question": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R Assertion A : The principle of organic farming has been applied for the development of golden rice Reason R : Golden rice is a transgenic variety of rice intended to supply Vitamin A to prevent blindness In light of the above statements, choose the correct answer from the options given below",
+    "answer": "A is false but R is true",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: A is false but R is true",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "Assertion or Reasoning",
+      "question_level": "Hard",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R Assertion A : The principle of organic farming has been applied for the development of golden rice Reason R : Golden rice is a transgenic variety of rice intended to supply Vitamin A to prevent blindness In light of the above statements, choose the correct answer from the options given below Answer: A is false but R is true. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_given_below_are_two_statements_0f091c7a",
+    "domain": "historic_practices",
+    "practice_name": "Traditional Practice",
+    "question": "Given below are two statements Statement I: Marrionettes are traditional string puppets. Statement II: Traditional media are suitable for non-literate audiences only. In light of the above statements, choose the most appropriate answer from the options given below",
+    "answer": "Statement I is correct but Statement II is incorrect",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Statement I is correct but Statement II is incorrect",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: Given below are two statements Statement I: Marrionettes are traditional string puppets. Statement II: Traditional media are suitable for non-literate audiences only. In light of the above statements, choose the most appropriate answer from the options given below Answer: Statement I is correct but Statement II is incorrect. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_given_below_are_two_statements_18b06f60",
+    "domain": "historic_practices",
+    "practice_name": "Statement I is incorrect but Statement II is true",
+    "question": "Given below are two statements:\nStatement I: Formal control is the main characteristic of traditional rural leadership\nStatement II: Rural life in India has been more socio-cultural than politico-economical in nature\nIn the light of the above statements choose the most appropriate answer from the options given below",
+    "answer": "Statement I is incorrect but Statement II is true",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Statement I is incorrect but Statement II is true",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Assertion or Reasoning",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: Given below are two statements:\nStatement I: Formal control is the main characteristic of traditional rural leadership\nStatement II: Rural life in India has been more socio-cultural than politico-economical in nature\nIn the light of the above statements choose the most appropriate answer from the options given below Answer: Statement I is incorrect but Statement II is true. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_given_below_are_two_statements_10f9329a",
+    "domain": "historic_practices",
+    "practice_name": "Both Statement (I) and Statement (II) are false.",
+    "question": "Given below are two statements: Statement (I): Macroeconomics is the study of particular household, individual price, income, wages, industry and particular commodity. Statement (II): Microeconomics is the study of aggregates of individual quantities, national income, price level and national output. In light of the above statements,choose the most appropriate answer from the options given below.",
+    "answer": "Both Statement (I) and Statement (II) are false.",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Both Statement (I) and Statement (II) are false.",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Given below are two statements: Statement (I): Macroeconomics is the study of particular household, individual price, income, wages, industry and particular commodity. Statement (II): Microeconomics is the study of aggregates of individual quantities, national income, price level and national output. In light of the above statements,choose the most appropriate answer from the options given below. Answer: Both Statement (I) and Statement (II) are false.. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_match_list_i_with_list_ii_list_78881d56",
+    "domain": "historic_practices",
+    "practice_name": "Traditional Practice",
+    "question": "Match List-I with List-II List-I (Communication method) List-II (Meaning/purpose) (A). Farm and home visit (I). It is an intense educational activity for motivating and mobilising a community at an opportune time for action to solve a problem or satisfy a need urgently felt by it (II). It is a face-to-face contact by the extension agent with the farmers at his/her home (B). Result demonstration (III). It is carned out by an extension agent to show how to carry out an entirely new practice or an old practice in a better way to a group. (C). Method demonstration (IV). It is conducted by a participating farmer on his/her farm or home under the guidance of an extension worker to prove by the evidence that the practice being demonstrated is superior to the one in existence. (D). Campaign Choose the correct answer from the options given below:",
+    "answer": "(A) - (II), (B) - (IV), (C) - (III), (C) - (III), (D) - (I)",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: (A) - (II), (B) - (IV), (C) - (III), (C) - (III), (D) - (I)",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Match the column",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: Match List-I with List-II List-I (Communication method) List-II (Meaning/purpose) (A). Farm and home visit (I). It is an intense educational activity for motivating and mobilising a community at an opportune time for action to solve a problem or satisfy a need urgently felt by it (II). It is a face-to-face contact by the extension agent with the farmers at his/her home (B). Result demonstration (III). It is carned out by an extension agent to show how to carry out an entirely new practice or an old practice in a better way to a group. (C). Method demonstration (IV). It is conducted by a participating farmer on his/her farm or home under the guidance of an extension worker to prove by the evidence that the practice being demonstrated is superior to the one in existence. (D). Campaign Choose the correct answer from the options given below: Answer: (A) - (II), (B) - (IV), (C) - (III), (C) - (III), (D) - (I). This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_how_many_days_of_wage_employme_24f8539f",
+    "domain": "historic_practices",
+    "practice_name": "120 days",
+    "question": "How many days of wage employment are provided to Scheduled Tribe households living in forest areas under MGNREGA?",
+    "answer": "120 days",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 120 days",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: How many days of wage employment are provided to Scheduled Tribe households living in forest areas under MGNREGA? Answer: 120 days. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_bangkok_golden_apple_is_a_vari_82cc586f",
+    "domain": "historic_practices",
+    "practice_name": "Avocado",
+    "question": "Bangkok Golden Apple is a variety of",
+    "answer": "Avocado",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Avocado",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: Bangkok Golden Apple is a variety of Answer: Avocado. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_minimum_isolation_distance_req_359cedf2",
+    "domain": "historic_practices",
+    "practice_name": "1000 m",
+    "question": "Minimum isolation distance required for seed production in mangold",
+    "answer": "1000 m",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 1000 m",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: Minimum isolation distance required for seed production in mangold Answer: 1000 m. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_which_symbols_should_be_placed_6a45b9c0",
+    "domain": "historic_practices",
+    "practice_name": ">, =, ≥, >",
+    "question": "Which symbols should be placed in the blank spaces respectively (in the same order from left to right) in order to complete the given expression in such a manner that V > S definitely holds True? V _ E _ N _ U _ S",
+    "answer": ">, =, ≥, >",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: >, =, ≥, >",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "General Knowledge & Reasoning",
+      "question_type": "MCQ",
+      "question_level": "Hard",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - General Knowledge & Reasoning: Which symbols should be placed in the blank spaces respectively (in the same order from left to right) in order to complete the given expression in such a manner that V > S definitely holds True? V _ E _ N _ U _ S Answer: >, =, ≥, >. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_a__to_keep_millions_of_america_cab180b0",
+    "domain": "historic_practices",
+    "practice_name": "CEADB",
+    "question": "A. to keep millions of Americans young and old from getting much-needed B. mental health disorder that can affect anyone at any age C. mental health stigmas, antiquated beliefs that psychotherapies are hokum D. help with depression, a common and increasingly pervasive E. and social and financial barriers to treatment combine. Indicate the sequence.",
+    "answer": "CEADB",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: CEADB",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "Rearrange the sequence",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: A. to keep millions of Americans young and old from getting much-needed B. mental health disorder that can affect anyone at any age C. mental health stigmas, antiquated beliefs that psychotherapies are hokum D. help with depression, a common and increasingly pervasive E. and social and financial barriers to treatment combine. Indicate the sequence. Answer: CEADB. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_ministry_of_is_implementing_th_d73b0292",
+    "domain": "historic_practices",
+    "practice_name": "Rural Development",
+    "question": "Ministry of is implementing the Azaadi se Antyodya tak campaign in a celebratory mode involving all rural stakeholders including families of identified freedom fighters (FF), Panchayati Raj Institutions (PRIs),women networks, youth groups and students highlighting the achievements of the",
+    "answer": "Rural Development",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Rural Development",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: Ministry of is implementing the Azaadi se Antyodya tak campaign in a celebratory mode involving all rural stakeholders including families of identified freedom fighters (FF), Panchayati Raj Institutions (PRIs),women networks, youth groups and students highlighting the achievements of the Answer: Rural Development. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_how_much_lump_sum_monetary_ass_9eb3dec6",
+    "domain": "historic_practices",
+    "practice_name": "Rs. 20000",
+    "question": "How much lump sum monetary assistance is given to the BPL household in the event of death of the bread winner?",
+    "answer": "Rs. 20000",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Rs. 20000",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: How much lump sum monetary assistance is given to the BPL household in the event of death of the bread winner? Answer: Rs. 20000. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_if_a_ram_is_to_be_sold__its_ca_6a8abcda",
+    "domain": "historic_practices",
+    "practice_name": "1 to 7 days",
+    "question": "If a Ram is to be sold, its castration should be done when lambs are between ___ of age.",
+    "answer": "1 to 7 days",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: 1 to 7 days",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Animal Sciences",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Animal Sciences: If a Ram is to be sold, its castration should be done when lambs are between ___ of age. Answer: 1 to 7 days. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_which_of_the_following_stateme_bb25b4b1",
+    "domain": "historic_practices",
+    "practice_name": "(A) and (B) only.",
+    "question": "Which of the following statement(s) is(are) true about free-rein leadership style (A) Free-rein leaders use relatively little power (B) Free-rein leaders depend largely on subordinates to set their own goals (C) Free-rein leaders lead by the ability to withhold or give rewards and punishment. (D) Believe in centralization of power Choose the correct answer from the options given below: 1. (A) and (B) only. 2. (A), (B) and (D) only. 3. (A), (B), (C) and (D). 4. (B), (C) and (D) only.",
+    "answer": "(A) and (B) only.",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: (A) and (B) only.",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: Which of the following statement(s) is(are) true about free-rein leadership style (A) Free-rein leaders use relatively little power (B) Free-rein leaders depend largely on subordinates to set their own goals (C) Free-rein leaders lead by the ability to withhold or give rewards and punishment. (D) Believe in centralization of power Choose the correct answer from the options given below: 1. (A) and (B) only. 2. (A), (B) and (D) only. 3. (A), (B), (C) and (D). 4. (B), (C) and (D) only. Answer: (A) and (B) only.. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_when_you_select_the_subject_fo_894e606e",
+    "domain": "historic_practices",
+    "practice_name": "The what of writing",
+    "question": "When you select the subject for your writing based on the vital interest of your stakeholders and make sure to satisfy their needs, your efforts explain 1. The when of writing 2. The what of writing 3. The how of writing 4. The why of writing",
+    "answer": "The what of writing",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: The what of writing",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: When you select the subject for your writing based on the vital interest of your stakeholders and make sure to satisfy their needs, your efforts explain 1. The when of writing 2. The what of writing 3. The how of writing 4. The why of writing Answer: The what of writing. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_it_is_a_precise_and_balanced_a_0ca86673",
+    "domain": "historic_practices",
+    "practice_name": "Popular article on agriculture",
+    "question": "It is a precise and balanced account of the facts published in periodicals like weekly, monthly, quarterly or yearly for the stakeholders of agriculture and allied sciences. Aims at a particular segment of stakeholders. It is designed to limited interest groups. It is a halfway between a newspaper and a book. 1. Agricultural news Story 2. Agricultural feature story 3. Popular article on agriculture 4. Expert comment on issues related to agriculture",
+    "answer": "Popular article on agriculture",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: Popular article on agriculture",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agriculture Communication",
+      "question_type": "MCQ",
+      "question_level": "Medium",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agriculture Communication: It is a precise and balanced account of the facts published in periodicals like weekly, monthly, quarterly or yearly for the stakeholders of agriculture and allied sciences. Aims at a particular segment of stakeholders. It is designed to limited interest groups. It is a halfway between a newspaper and a book. 1. Agricultural news Story 2. Agricultural feature story 3. Popular article on agriculture 4. Expert comment on issues related to agriculture Answer: Popular article on agriculture. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_when_we_write_to_inform_our_st_274370d7",
+    "domain": "historic_practices",
+    "practice_name": "The why of writing",
+    "question": "When we write to inform our stakeholders about something they did not know before or is it to explain and give more information about something they already know? Is it to tell them how to solve a particular farm or home problem? Is it to persuade them to adopt a new idea or method or show them a new aspect of an old idea? Unless we have such a definite purpose in writing, writing will not be clear and will be ineffective. It indicates 1. The who of writing 2. The what of writing 3. The how of writing 4. The why of writing",
+    "answer": "The why of writing",
+    "era": "Traditional India",
+    "description": "Traditional knowledge: The why of writing",
+    "purpose": [
+      "Sustainable farming",
+      "Resource conservation"
+    ],
+    "modern_equivalent": "Modern integrated approach",
+    "applicable_crops": [
+      "Various crops"
+    ],
+    "region": "India",
+    "metadata": {
+      "language": "en",
+      "subject_domain": "Agricultural Extension Education",
+      "question_type": "MCQ",
+      "question_level": "Easy",
+      "category": "general_agri"
+    },
+    "context": "Traditional Knowledge - Agricultural Extension Education: When we write to inform our stakeholders about something they did not know before or is it to explain and give more information about something they already know? Is it to tell them how to solve a particular farm or home problem? Is it to persuade them to adopt a new idea or method or show them a new aspect of an old idea? Unless we have such a definite purpose in writing, writing will not be clear and will be ineffective. It indicates 1. The who of writing 2. The what of writing 3. The how of writing 4. The why of writing Answer: The why of writing. This relates to historic and traditional agricultural practices."
+  },
+  {
+    "id": "hist_trad_0001",
+    "intent": "historic_practices",
+    "title": "Traditional: Introduction",
+    "practice": "Introduction",
+    "origin": "India",
+    "time_period": "Traditional",
+    "description": "Organic farming is a sustainable agricultural system that avoids synthetic fertilizers, pesticides, and GMOs. In India, it has deep roots in traditional practices and Vedic agriculture, emphasizing natural harmony and soil fertility.",
+    "benefits": "Organic farming is a sustainable agricultural system that avoids synthetic fertilizers, pesticides, and GMOs. In India, it has deep roots in tradition",
+    "content": "Organic farming is a sustainable agricultural system that avoids synthetic fertilizers, pesticides, and GMOs. In India, it has deep roots in traditional practices and Vedic agriculture, emphasizing natural harmony and soil fertility.",
+    "region": "India",
+    "language": "en",
+    "source": "Traditional Agriculture",
+    "tags": [
+      "traditional",
+      "historic"
+    ],
+    "created_at": "2025-12-17"
+  },
+  {
+    "id": "hist_trad_0002",
+    "intent": "historic_practices",
+    "title": "Traditional: Traditional Indian Farming Techniques",
+    "practice": "Traditional Indian Farming Techniques",
+    "origin": "India",
+    "time_period": "Traditional",
+    "description": "",
+    "benefits": "",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "Traditional Agriculture",
+    "tags": [
+      "traditional",
+      "historic"
+    ],
+    "created_at": "2025-12-17"
+  },
+  {
+    "id": "hist_trad_0003",
+    "intent": "historic_practices",
+    "title": "Traditional: Modern Organic Farming Practices",
+    "practice": "Modern Organic Farming Practices",
+    "origin": "India",
+    "time_period": "Traditional",
+    "description": "",
+    "benefits": "",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "Traditional Agriculture",
+    "tags": [
+      "traditional",
+      "historic"
+    ],
+    "created_at": "2025-12-17"
+  },
+  {
+    "id": "hist_trad_0004",
+    "intent": "historic_practices",
+    "title": "Traditional: Benefits",
+    "practice": "Benefits",
+    "origin": "India",
+    "time_period": "Traditional",
+    "description": "",
+    "benefits": "",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "Traditional Agriculture",
+    "tags": [
+      "traditional",
+      "historic"
+    ],
+    "created_at": "2025-12-17"
+  },
+  {
+    "id": "hist_trad_0005",
+    "intent": "historic_practices",
+    "title": "Traditional: Challenges",
+    "practice": "Challenges",
+    "origin": "India",
+    "time_period": "Traditional",
+    "description": "",
+    "benefits": "",
+    "content": "",
+    "region": "India",
+    "language": "en",
+    "source": "Traditional Agriculture",
+    "tags": [
+      "traditional",
+      "historic"
+    ],
+    "created_at": "2025-12-17"
+  },
+  {
+    "id": "hist_trad_0006",
+    "intent": "historic_practices",
+    "title": "Traditional: Conclusion",
+    "practice": "Conclusion",
+    "origin": "India",
+    "time_period": "Traditional",
+    "description": "Organic farming blends ancient wisdom with modern sustainability. Reviving traditional methods like Panchagavya and Jeevamrutha, alongside biofertilizers and certification systems, can make Indian agriculture more resilient and eco-friendly.",
+    "benefits": "Organic farming blends ancient wisdom with modern sustainability. Reviving traditional methods like Panchagavya and Jeevamrutha, alongside biofertiliz",
+    "content": "Organic farming blends ancient wisdom with modern sustainability. Reviving traditional methods like Panchagavya and Jeevamrutha, alongside biofertilizers and certification systems, can make Indian agriculture more resilient and eco-friendly.",
+    "region": "India",
+    "language": "en",
+    "source": "Traditional Agriculture",
+    "tags": [
+      "traditional",
+      "historic"
+    ],
+    "created_at": "2025-12-17"
+  }
+]

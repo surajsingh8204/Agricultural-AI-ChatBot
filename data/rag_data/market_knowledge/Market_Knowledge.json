@@ -1,0 +1,87 @@
+[
+  {
+    "id": "final_qa_eco_0001",
+    "intent": "market_price_query",
+    "title": "How to calculate cost of cultivation?",
+    "content": "Q: How to calculate cost of cultivation?\nA: Cost of cultivation includes: A) Variable costs - seeds, fertilizers, pesticides, labor, irrigation, hired machinery. B) Fixed costs - land rent, depreciation, interest on capital. Calculate per hectare or per acre. Compare with expected yield x price to assess profitability. Maintain records of all expenses.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "economics"
+    ],
+    "created_at": "2025-12-17T19:16:29.976009",
+    "crop": "General",
+    "market_behavior": "How to calculate cost of cultivation?",
+    "selling_advice": "Cost of cultivation includes: A) Variable costs - seeds, fertilizers, pesticides, labor, irrigation, hired machinery. B) Fixed costs - land rent, depreciation, interest on capital. Calculate per hectare or per acre. Compare with expected yield x price to assess profitability. Maintain records of all expenses."
+  },
+  {
+    "id": "final_qa_eco_0002",
+    "intent": "market_price_query",
+    "title": "What is benefit-cost ratio?",
+    "content": "Q: What is benefit-cost ratio?\nA: Benefit-Cost Ratio (BCR) = Gross Returns / Total Cost. If BCR > 1, farming is profitable. Example: Total cost Rs.50,000, Yield 50 quintals, Price Rs.2000/quintal, Gross return Rs.1,00,000. BCR = 100000/50000 = 2.0. A BCR of 2 means Rs.2 return for every Rs.1 invested. Higher BCR = better profitability.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "economics"
+    ],
+    "created_at": "2025-12-17T19:16:29.976012",
+    "crop": "General",
+    "market_behavior": "What is benefit-cost ratio?",
+    "selling_advice": "Benefit-Cost Ratio (BCR) = Gross Returns / Total Cost. If BCR > 1, farming is profitable. Example: Total cost Rs.50,000, Yield 50 quintals, Price Rs.2000/quintal, Gross return Rs.1,00,000. BCR = 100000/50000 = 2.0. A BCR of 2 means Rs.2 return for every Rs.1 invested. Higher BCR = better profitability."
+  },
+  {
+    "id": "final_qa_eco_0003",
+    "intent": "market_price_query",
+    "title": "How to get loan for farming?",
+    "content": "Q: How to get loan for farming?\nA: Farm loans available: 1) Kisan Credit Card (KCC) - crop loans at 4% (with subsidy), 2) Term loans - farm machinery, irrigation, land development, 3) NABARD refinance schemes, 4) SHG/FPO loans. Apply at: banks (commercial, cooperative, RRBs), PACS. Documents needed: land records, ID proof, photos. Check PMFBY enrollment for insurance.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "economics"
+    ],
+    "created_at": "2025-12-17T19:16:29.976015",
+    "crop": "General",
+    "market_behavior": "How to get loan for farming?",
+    "selling_advice": "Farm loans available: 1) Kisan Credit Card (KCC) - crop loans at 4% (with subsidy), 2) Term loans - farm machinery, irrigation, land development, 3) NABARD refinance schemes, 4) SHG/FPO loans. Apply at: banks (commercial, cooperative, RRBs), PACS. Documents needed: land records, ID proof, photos. Check PMFBY enrollment for insurance."
+  },
+  {
+    "id": "final_qa_eco_0004",
+    "intent": "market_price_query",
+    "title": "What is minimum support price (MSP)?",
+    "content": "Q: What is minimum support price (MSP)?\nA: MSP is minimum price guaranteed by government for procurement. Set by CACP (Commission for Agricultural Costs and Prices). Announced for 23 crops including paddy, wheat, pulses, oilseeds, cotton, sugarcane (FRP). Benefits: price assurance, income protection. Sell to government agencies (FCI, NAFED) or at designated mandis during procurement season.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "economics"
+    ],
+    "created_at": "2025-12-17T19:16:29.976018",
+    "crop": "General",
+    "market_behavior": "What is minimum support price (MSP)?",
+    "selling_advice": "MSP is minimum price guaranteed by government for procurement. Set by CACP (Commission for Agricultural Costs and Prices). Announced for 23 crops including paddy, wheat, pulses, oilseeds, cotton, sugarcane (FRP). Benefits: price assurance, income protection. Sell to government agencies (FCI, NAFED) or at designated mandis during procurement season."
+  },
+  {
+    "id": "final_qa_eco_0005",
+    "intent": "market_price_query",
+    "title": "How to sell produce at better prices?",
+    "content": "Q: How to sell produce at better prices?\nA: Tips for better prices: 1) Grade and sort produce - sell quality separately, 2) Know market prices - use Agmarknet portal, 3) Avoid distress sale immediately after harvest, 4) Use storage facilities if available, 5) Sell through FPOs for collective bargaining, 6) Direct marketing to consumers/retailers, 7) Value addition/processing, 8) Contract farming for assured price.",
+    "region": "India",
+    "language": "en",
+    "source": "FINAL_Agricultural_Dataset",
+    "tags": [
+      "qa",
+      "economics"
+    ],
+    "created_at": "2025-12-17T19:16:29.976020",
+    "crop": "General",
+    "market_behavior": "How to sell produce at better prices?",
+    "selling_advice": "Tips for better prices: 1) Grade and sort produce - sell quality separately, 2) Know market prices - use Agmarknet portal, 3) Avoid distress sale immediately after harvest, 4) Use storage facilities if available, 5) Sell through FPOs for collective bargaining, 6) Direct marketing to consumers/retailers, 7) Value addition/processing, 8) Contract farming for assured price."
+  }
+]
