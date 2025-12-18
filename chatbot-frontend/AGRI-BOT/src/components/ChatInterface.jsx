@@ -1274,14 +1274,43 @@ const ChatInterface = ({
       console.error('Chat error:', error);
       // Set offline mode on network error
       setConnectionMode('offline');
+      
+      // Try offline endpoint as fallback
+      try {
+        console.log('[ChatBot] Main endpoint failed, trying offline search...');
+        const offlineResponse = await fetch(`${API_BASE}/v1/offline/search?query=${encodeURIComponent(query)}&top_k=1`);
+        
+        if (offlineResponse.ok) {
+          const offlineData = await offlineResponse.json();
+          if (offlineData.results && offlineData.results.length > 0) {
+            const bestMatch = offlineData.results[0];
+            const offlineMessage = {
+              id: Date.now() + 1,
+              role: 'assistant',
+              content: bestMatch.answer || (language === 'hi' ? 'ऑफलाइन जवाब मिला' : 'Found offline answer'),
+              timestamp: new Date().toISOString(),
+              mode: 'offline',
+              confidence: bestMatch.confidence
+            };
+            onUpdateConversation(conversation.id, [...newMessages, offlineMessage], title);
+            if (talkbackEnabled) speakText(bestMatch.answer);
+            return;
+          }
+        }
+      } catch (offlineError) {
+        console.error('Offline fallback also failed:', offlineError);
+      }
+      
+      // If offline fallback also fails, show error
       const errorMessage = {
         id: Date.now() + 1,
         role: 'assistant',
         content: language === 'hi' 
-          ? 'माफ़ करें, कुछ गड़बड़ हुई। कृपया दोबारा कोशिश करें।' 
-          : 'Sorry, something went wrong. Please try again.',
+          ? 'माफ़ करें, सर्वर से कनेक्ट नहीं हो पाया। कृपया इंटरनेट कनेक्शन जांचें और दोबारा कोशिश करें।' 
+          : 'Sorry, could not connect to server. Please check your internet connection and try again.',
         timestamp: new Date().toISOString(),
-        isError: true
+        isError: true,
+        mode: 'offline'
       };
       onUpdateConversation(conversation.id, [...newMessages, errorMessage], title);
     } finally {
@@ -1349,14 +1378,42 @@ const ChatInterface = ({
 
     } catch (error) {
       console.error('Chat error:', error);
+      setConnectionMode('offline');
+      
+      // Try offline endpoint as fallback
+      try {
+        console.log('[ChatBot] Main endpoint failed, trying offline search...');
+        const offlineResponse = await fetch(`${API_BASE}/v1/offline/search?query=${encodeURIComponent(query)}&top_k=1`);
+        
+        if (offlineResponse.ok) {
+          const offlineData = await offlineResponse.json();
+          if (offlineData.results && offlineData.results.length > 0) {
+            const bestMatch = offlineData.results[0];
+            const offlineMessage = {
+              id: Date.now() + 1,
+              role: 'assistant',
+              content: bestMatch.answer || (language === 'hi' ? 'ऑफलाइन जवाब मिला' : 'Found offline answer'),
+              timestamp: new Date().toISOString(),
+              mode: 'offline',
+              confidence: bestMatch.confidence
+            };
+            onUpdateConversation(conversation.id, [...newMessages, offlineMessage], title);
+            return;
+          }
+        }
+      } catch (offlineError) {
+        console.error('Offline fallback also failed:', offlineError);
+      }
+      
       const errorMessage = {
         id: Date.now() + 1,
         role: 'assistant',
         content: language === 'hi' 
-          ? 'माफ़ करें, कुछ गड़बड़ हुई। कृपया दोबारा कोशिश करें।' 
-          : 'Sorry, something went wrong. Please try again.',
+          ? 'माफ़ करें, सर्वर से कनेक्ट नहीं हो पाया। कृपया इंटरनेट कनेक्शन जांचें।' 
+          : 'Sorry, could not connect to server. Please check your internet connection.',
         timestamp: new Date().toISOString(),
-        isError: true
+        isError: true,
+        mode: 'offline'
       };
       onUpdateConversation(conversation.id, [...newMessages, errorMessage], title);
     } finally {

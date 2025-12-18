@@ -168,6 +168,22 @@ async def startup_event():
     # Start keep-alive service for Render free tier
     result = start_keep_alive()
     print(f"✓ Keep-alive service: {result['status']}")
+    
+    # Pre-initialize offline system for faster fallback
+    try:
+        from chatbot_backend.tools.offline_retrieval import initialize_offline_system, is_offline_ready
+        if not is_offline_ready():
+            print("📦 Pre-initializing offline retrieval system...")
+            offline_result = initialize_offline_system()
+            if offline_result.get("success"):
+                print(f"✓ Offline system ready: {offline_result.get('qa_pairs', 0)} Q&A pairs loaded")
+            else:
+                print("⚠️ Offline system initialization failed")
+        else:
+            print("✓ Offline system already initialized")
+    except Exception as e:
+        print(f"⚠️ Could not initialize offline system: {e}")
+    
     print("="*50 + "\n")
 
 
