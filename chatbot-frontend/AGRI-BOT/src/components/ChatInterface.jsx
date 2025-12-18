@@ -838,6 +838,7 @@ const ChatInterface = ({
   };
   
   // Server-proxied TTS - works for Hindi via our backend
+  // Falls back to browser TTS if server fails
   const speakWithServerTTS = (text, lang) => {
     // Initialize audio tracking array if not exists
     if (!window.ttsAudioInstances) {
@@ -893,8 +894,21 @@ const ChatInterface = ({
     const sessionId = Date.now();
     window.currentTTSSession = sessionId;
     
+    // Track consecutive errors for fallback
+    let consecutiveErrors = 0;
+    const MAX_ERRORS_BEFORE_FALLBACK = 2;
+    
     // Play chunks sequentially
     let currentIndex = 0;
+    
+    const fallbackToBrowserTTS = () => {
+      console.log('[Speech] ⚠️ Server TTS failed, falling back to browser TTS');
+      // Join remaining chunks and use browser TTS
+      const remainingText = chunks.slice(currentIndex).join(' ');
+      if (remainingText.trim()) {
+        speakWithBrowserTTS(remainingText, lang);
+      }
+    };
     
     const playNextChunk = () => {
       // Check if we should stop OR if session changed
@@ -927,12 +941,21 @@ const ChatInterface = ({
       
       audio.onended = () => {
         if (window.ttsShouldStop || window.currentTTSSession !== sessionId) return;
+        consecutiveErrors = 0; // Reset error count on success
         currentIndex++;
         window.ttsTimeoutId = setTimeout(playNextChunk, 150);
       };
       
       audio.onerror = (e) => {
-        console.error('[Speech] ❌ Audio error, trying next chunk');
+        console.error('[Speech] ❌ Audio error on chunk', currentIndex + 1);
+        consecutiveErrors++;
+        
+        if (consecutiveErrors >= MAX_ERRORS_BEFORE_FALLBACK) {
+          // Too many errors, fallback to browser TTS
+          fallbackToBrowserTTS();
+          return;
+        }
+        
         if (window.ttsShouldStop || window.currentTTSSession !== sessionId) return;
         currentIndex++;
         window.ttsTimeoutId = setTimeout(playNextChunk, 150);
@@ -942,6 +965,14 @@ const ChatInterface = ({
         console.log('[Speech] 🔊 Playing...');
       }).catch(err => {
         console.error('[Speech] Play failed:', err.message);
+        consecutiveErrors++;
+        
+        if (consecutiveErrors >= MAX_ERRORS_BEFORE_FALLBACK) {
+          // Too many errors, fallback to browser TTS
+          fallbackToBrowserTTS();
+          return;
+        }
+        
         if (window.ttsShouldStop) return;
         currentIndex++;
         window.ttsTimeoutId = setTimeout(playNextChunk, 150);

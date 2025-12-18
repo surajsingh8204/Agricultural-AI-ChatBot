@@ -400,6 +400,62 @@ def generate_crop_advisory(crop: str, temp: float, humidity: float) -> list:
 
 
 # ============================================
+# Text-to-Speech (TTS) Proxy Endpoint
+# ============================================
+
+from fastapi.responses import StreamingResponse
+import urllib.parse
+
+@app.get("/v1/tts")
+async def text_to_speech(text: str, lang: str = "hi"):
+    """
+    Proxy endpoint for Google Translate TTS.
+    Supports Hindi (hi), Telugu (te), Marathi (mr), and English (en).
+    """
+    try:
+        # Validate and limit text length (Google TTS has ~200 char limit)
+        if not text or len(text.strip()) == 0:
+            raise HTTPException(status_code=400, detail="Text is required")
+        
+        # Truncate if too long
+        clean_text = text[:200]
+        
+        # URL encode the text
+        encoded_text = urllib.parse.quote(clean_text)
+        
+        # Google Translate TTS URL
+        tts_url = f"https://translate.google.com/translate_tts?ie=UTF-8&q={encoded_text}&tl={lang}&client=tw-ob"
+        
+        # Fetch audio from Google
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://translate.google.com/"
+        }
+        
+        response = requests.get(tts_url, headers=headers, timeout=10)
+        
+        if response.status_code != 200:
+            raise HTTPException(status_code=502, detail="TTS service unavailable")
+        
+        # Return audio as streaming response
+        return StreamingResponse(
+            iter([response.content]),
+            media_type="audio/mpeg",
+            headers={
+                "Content-Disposition": "inline",
+                "Cache-Control": "public, max-age=3600"
+            }
+        )
+        
+    except requests.exceptions.Timeout:
+        raise HTTPException(status_code=504, detail="TTS service timeout")
+    except requests.exceptions.RequestException as e:
+        raise HTTPException(status_code=502, detail=f"TTS service error: {str(e)}")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# ============================================
 # Market Prices Endpoints
 # ============================================
 
