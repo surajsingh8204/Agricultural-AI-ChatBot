@@ -135,6 +135,7 @@ const ChatInterface = ({
   // Connectivity Status - Online/Offline Mode
   const [connectionMode, setConnectionMode] = useState('checking'); // 'online', 'offline', 'checking'
   const [lastModeFromServer, setLastModeFromServer] = useState(null);
+  const [manualModeOverride, setManualModeOverride] = useState(false); // Track if user manually set mode
   
   const messagesEndRef = useRef(null);
   const chatAreaRef = useRef(null);
@@ -142,9 +143,15 @@ const ChatInterface = ({
   const fileInputRef = useRef(null);
   const recognitionRef = useRef(null);
 
-  // Check connectivity status periodically
+  // Check connectivity status periodically (only if not manually overridden)
   useEffect(() => {
     const checkConnectivity = async () => {
+      // Skip auto-check if user manually set the mode
+      if (manualModeOverride) {
+        console.log('[Connectivity] Manual mode active, skipping auto-check');
+        return;
+      }
+      
       try {
         const response = await fetch(`${API_BASE}/v1/connectivity`, { 
           method: 'GET',
@@ -163,18 +170,22 @@ const ChatInterface = ({
       }
     };
 
-    // Check immediately on mount
-    checkConnectivity();
+    // Check immediately on mount (unless manual override)
+    if (!manualModeOverride) {
+      checkConnectivity();
+    }
 
-    // Check every 30 seconds
+    // Check every 30 seconds (unless manual override)
     const interval = setInterval(checkConnectivity, 30000);
 
     // Also listen for browser online/offline events
     const handleOnline = () => {
+      if (manualModeOverride) return;
       console.log('[Connectivity] Browser reports online');
       checkConnectivity();
     };
     const handleOffline = () => {
+      if (manualModeOverride) return;
       console.log('[Connectivity] Browser reports offline');
       setConnectionMode('offline');
     };
@@ -187,7 +198,7 @@ const ChatInterface = ({
       window.removeEventListener('online', handleOnline);
       window.removeEventListener('offline', handleOffline);
     };
-  }, []);
+  }, [manualModeOverride]);
 
   // Check disease API status from server (server manages keep-alive)
   useEffect(() => {
@@ -1899,17 +1910,32 @@ const ChatInterface = ({
       <div className="weather-strip" onClick={() => setShowLocationPicker(true)} style={{ cursor: 'pointer' }}>
         {/* Connection Status Indicator - Bold & Interactive */}
         <div 
-          className={`connection-indicator ${connectionMode}`}
+          className={`connection-indicator ${connectionMode}${manualModeOverride ? ' manual' : ''}`}
           title={connectionMode === 'online' 
-            ? (language === 'hi' ? 'ऑनलाइन मोड - पूर्ण AI सक्षम\n(क्लिक करें: स्थिति जांचें)' : 'Online Mode - Full AI enabled\n(Click to check status)')
+            ? (language === 'hi' 
+              ? `ऑनलाइन मोड - पूर्ण AI सक्षम${manualModeOverride ? '\n(मैनुअल मोड)' : ''}\n\n• क्लिक: ऑफलाइन पर स्विच\n• डबल क्लिक: ऑटो मोड` 
+              : `Online Mode - Full AI enabled${manualModeOverride ? '\n(Manual Mode)' : ''}\n\n• Click: Switch to Offline\n• Double-click: Auto Mode`)
             : connectionMode === 'offline'
-            ? (language === 'hi' ? 'ऑफलाइन मोड - सीमित सुविधाएं\n(क्लिक करें: पुनः कनेक्ट करें)' : 'Offline Mode - Limited features\n(Click to reconnect)')
+            ? (language === 'hi' 
+              ? `ऑफलाइन मोड - सीमित सुविधाएं${manualModeOverride ? '\n(मैनुअल मोड)' : ''}\n\n• क्लिक: ऑनलाइन पर स्विच\n• डबल क्लिक: ऑटो मोड` 
+              : `Offline Mode - Limited features${manualModeOverride ? '\n(Manual Mode)' : ''}\n\n• Click: Switch to Online\n• Double-click: Auto Mode`)
             : (language === 'hi' ? 'कनेक्शन जांच रहा है...' : 'Checking connection...')
           }
           onClick={(e) => {
             e.stopPropagation();
-            // Trigger connectivity check on click
+            // Toggle between online/offline manually
+            const newMode = connectionMode === 'online' ? 'offline' : 'online';
+            setConnectionMode(newMode);
+            setManualModeOverride(true);
+            console.log('[Connectivity] Manual mode set:', newMode);
+          }}
+          onDoubleClick={(e) => {
+            e.stopPropagation();
+            // Double-click: Reset to auto-detection
+            setManualModeOverride(false);
             setConnectionMode('checking');
+            console.log('[Connectivity] Switched to auto-detection');
+            // Trigger immediate check
             fetch(`${API_BASE}/v1/connectivity`)
               .then(res => res.json())
               .then(data => {
@@ -1927,6 +1953,7 @@ const ChatInterface = ({
               : '...'
             }
           </span>
+          {manualModeOverride && <span className="manual-badge">M</span>}
         </div>
         
         {weatherLoading ? (

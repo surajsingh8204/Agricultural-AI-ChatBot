@@ -105,6 +105,30 @@
   font-weight: 800;
 }
 
+/* Manual mode badge */
+.connection-indicator .manual-badge {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  width: 16px;
+  height: 16px;
+  background: #6366f1;
+  color: #fff;
+  font-size: 9px;
+  font-weight: 900;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #1a1a1a;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+/* Manual mode indicator border */
+.connection-indicator.manual {
+  border-style: dashed !important;
+}
+
 @keyframes online-glow {
   0%, 100% { box-shadow: 0 0 8px #ffffff, 0 0 16px #34d399; }
   50% { box-shadow: 0 0 12px #ffffff, 0 0 24px #34d399, 0 0 32px #10b981; }
