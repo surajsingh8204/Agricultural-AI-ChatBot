@@ -145,13 +145,13 @@ const ChatInterface = ({
 
   // Check connectivity status periodically (only if not manually overridden)
   useEffect(() => {
+    // If user has manually set the mode, don't run any auto-detection
+    if (manualModeOverride) {
+      console.log('[Connectivity] Manual mode active - user choice respected, no auto-detection');
+      return; // Don't set up any listeners or intervals in manual mode
+    }
+
     const checkConnectivity = async () => {
-      // Skip auto-check if user manually set the mode
-      if (manualModeOverride) {
-        console.log('[Connectivity] Manual mode active, skipping auto-check');
-        return;
-      }
-      
       try {
         const response = await fetch(`${API_BASE}/v1/connectivity`, { 
           method: 'GET',
@@ -160,7 +160,7 @@ const ChatInterface = ({
         if (response.ok) {
           const data = await response.json();
           setConnectionMode(data.mode || 'online');
-          console.log('[Connectivity] Mode:', data.mode);
+          console.log('[Connectivity] Auto-detected mode:', data.mode);
         } else {
           setConnectionMode('offline');
         }
@@ -170,22 +170,18 @@ const ChatInterface = ({
       }
     };
 
-    // Check immediately on mount (unless manual override)
-    if (!manualModeOverride) {
-      checkConnectivity();
-    }
+    // Check immediately on mount (only in auto mode)
+    checkConnectivity();
 
-    // Check every 30 seconds (unless manual override)
+    // Check every 30 seconds (only in auto mode)
     const interval = setInterval(checkConnectivity, 30000);
 
-    // Also listen for browser online/offline events
+    // Also listen for browser online/offline events (only in auto mode)
     const handleOnline = () => {
-      if (manualModeOverride) return;
       console.log('[Connectivity] Browser reports online');
       checkConnectivity();
     };
     const handleOffline = () => {
-      if (manualModeOverride) return;
       console.log('[Connectivity] Browser reports offline');
       setConnectionMode('offline');
     };
