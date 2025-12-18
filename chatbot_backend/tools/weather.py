@@ -1,8 +1,8 @@
 import requests
 import os
 
-# Use environment variable or fallback to default API key
-OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY", "1a5158ec92592d2824305f3f4f3222a6")
+# Use environment variable (no fallback - must be configured)
+OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY", "")
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
