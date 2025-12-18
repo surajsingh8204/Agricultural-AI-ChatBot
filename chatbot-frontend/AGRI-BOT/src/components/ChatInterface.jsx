@@ -1897,25 +1897,33 @@ const ChatInterface = ({
       {/* Weather Strip - Auto detected location */}
       {/* Weather Strip - Clickable to change location */}
       <div className="weather-strip" onClick={() => setShowLocationPicker(true)} style={{ cursor: 'pointer' }}>
-        {/* Connection Status Indicator */}
+        {/* Connection Status Indicator - Bold & Interactive */}
         <div 
           className={`connection-indicator ${connectionMode}`}
           title={connectionMode === 'online' 
-            ? (language === 'hi' ? 'ऑनलाइन मोड - पूर्ण AI सक्षम' : 'Online Mode - Full AI enabled')
+            ? (language === 'hi' ? 'ऑनलाइन मोड - पूर्ण AI सक्षम\n(क्लिक करें: स्थिति जांचें)' : 'Online Mode - Full AI enabled\n(Click to check status)')
             : connectionMode === 'offline'
-            ? (language === 'hi' ? 'ऑफलाइन मोड - सीमित सुविधाएं' : 'Offline Mode - Limited features')
+            ? (language === 'hi' ? 'ऑफलाइन मोड - सीमित सुविधाएं\n(क्लिक करें: पुनः कनेक्ट करें)' : 'Offline Mode - Limited features\n(Click to reconnect)')
             : (language === 'hi' ? 'कनेक्शन जांच रहा है...' : 'Checking connection...')
           }
-          onClick={(e) => e.stopPropagation()}
+          onClick={(e) => {
+            e.stopPropagation();
+            // Trigger connectivity check on click
+            setConnectionMode('checking');
+            fetch(`${API_BASE}/v1/connectivity`)
+              .then(res => res.json())
+              .then(data => {
+                setConnectionMode(data.mode === 'online' ? 'online' : 'offline');
+              })
+              .catch(() => setConnectionMode('offline'));
+          }}
         >
-          <span className="connection-icon">
-            {connectionMode === 'online' ? '📶' : connectionMode === 'offline' ? '📴' : '🔄'}
-          </span>
+          <span className="status-dot"></span>
           <span className="connection-text">
             {connectionMode === 'online' 
-              ? (language === 'hi' ? 'ऑनलाइन' : 'Online')
+              ? (language === 'hi' ? 'ऑनलाइन' : 'ONLINE')
               : connectionMode === 'offline'
-              ? (language === 'hi' ? 'ऑफलाइन' : 'Offline')
+              ? (language === 'hi' ? 'ऑफलाइन' : 'OFFLINE')
               : '...'
             }
           </span>
